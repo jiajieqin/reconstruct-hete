@@ -1,0 +1,12 @@
+# prop_name, value
+name,Torulaspora delbrueckii
+description,"Protein-protein iteraction networks (\"interactome\") for 1,840 species. An interactome captures all physical protein-protein interactions within one species, from direct biophysical protein-protein interactions to regulatory protein-DNA and metabolic interactions. "
+citation,"['Marinka Zitnik, Rok Sosic, Marcus W Feldman, and Jure Leskovec. \"Evolution of resilience in protein interactomes across the tree of life\", Proceedings of the National Academy of Sciences (PNAS), 2019, 116 (10) 4426-4433., https://doi.org/10.1073/pnas.1818013116']"
+url,http://snap.stanford.edu/tree-of-life/data.html
+tags,"['Biological', 'Protein interactions']"
+long_name,Torulaspora delbrueckii
+pub_count,44
+evo_time,3.723726585172145
+domain,Eukaryota
+taxonomy_level2,Eukaryota_Opisthokonta
+taxonomy,"['cellular organisms', 'Eukaryota', 'Opisthokonta', 'Fungi', 'Dikarya', 'Ascomycota', 'saccharomyceta', 'Saccharomycotina', 'Saccharomycetes', 'Saccharomycetales', 'Saccharomycetaceae', 'Torulaspora']"

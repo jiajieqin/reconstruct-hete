@@ -1,0 +1,1733 @@
+# index, pid, community, size, pos, leamer, name, _pos
+0,3822,0,17.45947265625,"array([1327.59594727, 2131.48754883])","Composite diagnostic or laboratory reagents, nes","#9c219c
+","array([ 6.54160581, -1.87785142])"
+1,8307,0,15.205078125,"array([1637.95837402, 2680.02758789])","Tubing,flexible, with/without fittings, iron or steel","#299fff
+","array([ 6.4040196 , -1.91479855])"
+2,8601,0,15.02392578125,"array([1842.53051758, 2671.22460938])","Rail locomotives, externally electrically powered","#299fff
+","array([ 6.27457028, -2.08599432])"
+3,8901,0,31.50048828125,"array([1929.01843262, 2142.74682617])","Cruise ships, excursion boats, ferry boats","#299fff
+","array([ 6.11195433, -2.1196367 ])"
+4,9015,0,16.233154296875,"array([1655.44604492, 2040.54943848])",Rangefinders,"#299fff
+","array([ 6.38008535, -2.21037601])"
+5,8429,0,23.2703857421875,"array([1673.91912842, 2745.16650391])","Bulldozers and angledozers, crawler type","#299fff
+","array([ 6.47008019, -2.07411351])"
+6,8410,0,15.080078125,"array([1938.62231445, 2602.89428711])","Hydraulic turbines, water wheels, power < 1000 kW","#299fff
+","array([ 6.1584103, -2.0263503])"
+7,8411,0,29.3427734375,"array([1341.78442383, 2810.60571289])",Turbo-jet engines of a thrust < 25 KN,"#0576a6
+","array([ 7.12372281, -2.07422446])"
+8,9111,0,15.014892578125,"array([1375.30383301, 2782.47875977])","Watch cases of, or clad with, precious metal","#0576a6
+","array([ 7.05482932, -2.09932861])"
+9,9703,0,15.2054443359375,"array([1324.24542236, 2855.22753906])","Original sculptures and statuary, in any material","#0576a6
+","array([ 7.18782429, -2.05300549])"
+10,9014,0,15.912109375,"array([1494.68432617, 2545.16015625])",Direction finding compasses,"#299fff
+","array([ 6.49717341, -2.0171387 ])"
+11,5111,0,15.05126953125,"array([1814.89489746, 2052.95458984])","Woven fabric, >85% carded wool or fine hair, <300 g/m","#299fff
+","array([ 6.28022566, -2.28310404])"
+12,5112,0,15.36083984375,"array([1796.06689453, 2122.33129883])","Woven fabric, >85% combed wool or fine hair, <300 g/m","#299fff
+","array([ 6.27674704, -2.21808013])"
+13,8466,0,17.611083984375,"array([1761.30249023, 2390.4675293 ])","Tool holders, self-opening dieheads, for machine tool","#299fff
+","array([ 6.28577007, -1.97211559])"
+14,6115,0,16.423095703125,"array([2643.6607666 , 2262.04455566])","Panty hose etc, synthetic fibre yarn <67 dtex/sy, kni","#33cc00
+","array([ 6.08718274, -1.68334475])"
+15,4823,0,15.813232421875,"array([2133.39245605, 2414.60888672])","Paper, self-adhesive, cut to size, in strips or rolls","#ff0000
+","array([ 6.19679708, -1.84313965])"
+16,6902,0,15.544677734375,"array([1747.53393555, 2522.90209961])","Refractory bricks, etc with >50% Mg, Ca or Cr as oxid","#299fff
+","array([ 6.29252172, -2.0594576 ])"
+17,7602,0,16.578369140625,"array([2382.58947754, 2316.62780762])","Waste or scrap, aluminium","#330000
+","array([ 5.98591766, -1.72135737])"
+18,9010,0,15.09716796875,"array([1322.38208008, 2428.58447266])",Equipment for automatic development of photo film,"#99ffff
+","array([ 6.55578195, -1.91882868])"
+19,7315,0,15.49609375,"array([1582.17492676, 2319.52587891])","Chain, roller, iron or steel","#299fff
+","array([ 6.36854597, -1.97815015])"
+20,7612,0,15.6044921875,"array([2308.7421875 , 2244.78015137])","Aluminium containers, collapsible tubular","#299fff
+","array([ 6.02173139, -1.8979021 ])"
+21,6105,0,15.96826171875,"array([2717.49047852, 2394.27001953])","Mens, boys shirts, of cotton, knit","#33cc00
+","array([ 6.07910971, -1.61962868])"
+22,6110,0,21.924072265625,"array([2691.75915527, 2298.49926758])","Pullovers, cardigans etc of wool or hair, knit","#33cc00
+","array([ 6.09127968, -1.62883788])"
+23,6101,0,15.099853515625,"array([2671.9654541 , 2374.24291992])","Mens, boys overcoats, etc, of wool or hair, knit","#33cc00
+","array([ 6.09528835, -1.63960405])"
+24,6104,0,17.241455078125,"array([2644.9263916 , 2409.48657227])","Womens, girls suits, of wool or hair, knit","#33cc00
+","array([ 6.07802574, -1.65188619])"
+25,8605,0,15.004150390625,"array([1679.27893066, 2527.70898438])",Railway passenger and special purpose coaches,"#299fff
+","array([ 6.3353378 , -2.05332623])"
+26,8406,0,15.8427734375,"array([1727.9107666 , 2415.22900391])",Steam and vapour turbines for marine propulsion,"#299fff
+","array([ 6.32854762, -1.98071476])"
+27,3801,0,15.1143798828125,"array([1693.83343506, 2644.51757812])",Artificial graphite,"#299fff
+","array([ 6.38365933, -2.0678164 ])"
+28,9019,0,15.991943359375,"array([1488.26147461, 2765.74902344])",Massage and psychological aptitude-test apparatus,"#299fff
+","array([ 6.67269253, -2.13974545])"
+29,7217,0,16.118896484375,"array([2203.1114502 , 2340.63549805])","Wire, iron or non-alloy steel, not plated or coated, <0.25%C","#299fff
+","array([ 6.15559796, -1.78458959])"
+30,3816,0,15.15576171875,"array([1783.42993164, 2509.76171875])","Refractory cements, mortars, concretes except graphit","#299fff
+","array([ 6.25540466, -2.01842816])"
+31,5007,0,15.1728515625,"array([1412.3527832 , 2605.56298828])",Woven fabric of noil silk,"#9c9a87
+","array([ 6.65997749, -2.04376595])"
+32,3815,0,16.752197265625,"array([1296.65625   , 2263.20874023])","Supported catalysts, nickel based","#9c219c
+","array([ 6.60737465, -1.92643473])"
+33,5101,0,15.351806640625,"array([2068.65270996, 1777.78710938])","Greasy shorn wool, not carded or combed","#6e451e
+","array([ 5.86215052, -2.8009578 ])"
+34,511,0,15.117919921875,"array([2174.04455566, 2735.1451416 ])",Semen bovine,"#d1ff00
+","array([ 5.75787927, -1.9885884 ])"
+35,404,0,15.39501953125,"array([2126.56884766, 2687.98632812])",Whey,"#d1ff00
+","array([ 5.95183661, -2.01928633])"
+36,304,0,17.58935546875,"array([2140.27294922, 2774.21142578])","Fish fillet or meat, fresh or chilled, not liver, roe","#d1ff00
+","array([ 5.61474112, -2.02762852])"
+37,5107,0,15.107421875,"array([2122.71191406, 2279.32763672])","Yarn of combed wool, >85% wool, not retail","#299fff
+","array([ 6.19949339, -1.73940355])"
+38,102,0,15.82861328125,"array([2176.16113281, 2455.51904297])","Bovine animals, live pure-bred breeding","#730049
+","array([ 6.17186207, -1.82692889])"
+39,201,0,17.59228515625,"array([2213.99121094, 2690.2331543 ])","Bovine carcasses and half carcasses, fresh or chilled","#d1ff00
+","array([ 5.90060498, -1.95382697])"
+40,401,0,15.96337890625,"array([2224.73095703, 2493.4440918 ])",Milk not concentrated nor sweetened < 1% fat,"#730049
+","array([ 6.12365467, -1.86144916])"
+41,4907,0,15.504150390625,"array([2906.4732666 , 2565.62207031])","Documents of title (bonds etc), unused stamps etc","#9c9a87
+","array([ 6.17627759, -1.17432716])"
+42,303,0,17.578125,"array([2104.87255859, 2781.86083984])","Salmon, Pacific, frozen, whole","#d1ff00
+","array([ 5.58321927, -2.05459964])"
+43,305,0,15.626953125,"array([2145.18212891, 2825.64282227])","Flours, meals & pellets of fish for human consumption","#d1ff00
+","array([ 5.56314637, -2.04900735])"
+44,7103,0,15.427490234375,"array([2876.62609863, 2514.86096191])","Precious, semi-precious stones unworked, partly worke","#330000
+","array([ 6.14956938, -1.2112463 ])"
+45,4908,0,15.009765625,"array([1493.42077637, 2336.86157227])","Transfers (decalcomanias), vitrifiable","#299fff
+","array([ 6.4309313 , -2.06842612])"
+46,1502,0,15.12451171875,"array([2098.2199707 , 2756.84619141])","Bovine, sheep and goat fats, raw or rendered","#d1ff00
+","array([ 5.73955454, -2.1321116 ])"
+47,1007,0,15.175537109375,"array([2070.6998291, 2755.8671875])",Grain sorghum,"#d1ff00
+","array([ 5.75895326, -2.16122964])"
+48,202,0,16.876953125,"array([2091.77856445, 2723.38134766])","Bovine carcasses and half carcasses, frozen","#d1ff00
+","array([ 5.78843005, -2.12060072])"
+49,1108,0,15.25244140625,"array([2230.77612305, 2728.19946289])","Wheat, starch","#d1ff00
+","array([ 5.84945812, -1.96826674])"
+50,206,0,15.560546875,"array([2208.19042969, 2740.00976562])","Bovine edible offal, fresh or chilled","#d1ff00
+","array([ 5.813532  , -1.98272178])"
+51,4909,0,15.05615234375,"array([1495.09655762, 2815.51489258])","Postcards, printed or illustrated, greeting cards","#9c9a87
+","array([ 6.70538686, -2.18682847])"
+52,4106,0,15.01171875,"array([2350.74560547, 2709.76928711])","Goat or kid skin leather, vegetable pre-tanned","#d1ff00
+","array([ 5.62704097, -1.7730111 ])"
+53,104,0,15.048828125,"array([2360.22363281, 2757.6953125 ])","Sheep, live","#d1ff00
+","array([ 5.58304385, -1.75735703])"
+54,203,0,18.85791015625,"array([1722.69299316, 2621.98632812])","Swine carcasses and half carcasses, fresh or chilled","#d1ff00
+","array([ 6.30764481, -2.11727946])"
+55,103,0,15.42578125,"array([1711.27905273, 2703.83886719])","Swine, live pure-bred breeding","#d1ff00
+","array([ 6.30659348, -2.1918625 ])"
+56,8716,0,18.83740234375,"array([2253.94506836, 2472.80883789])",Trailers for housing or camping,"#ff0000
+","array([ 6.13343781, -1.84782252])"
+57,403,0,15.495849609375,"array([2113.09069824, 2459.75634766])",Yogurt,"#730049
+","array([ 6.12312849, -1.8736099 ])"
+58,3925,0,16.173583984375,"array([2315.71740723, 2378.88195801])","Plastic reservoirs, tanks, vats, etc, capacity <300l","#ff0000
+","array([ 6.12062603, -1.83527103])"
+59,4410,0,15.9248046875,"array([2265.55566406, 2434.96020508])",Particle board of wood,"#ff0000
+","array([ 6.10961067, -1.84332208])"
+60,4808,0,15.083984375,"array([2364.94091797, 2371.27209473])","Paper, corrugated","#ff0000
+","array([ 6.07749193, -1.84805932])"
+61,6806,0,15.427978515625,"array([1995.1932373 , 2407.49560547])","Slag wool, rock wool, similar wools, bulk, sheet, rol","#730049
+","array([ 6.21279242, -1.90497444])"
+62,3209,0,15.642822265625,"array([2116.28967285, 2486.12182617])","Acrylic & vinyl polymer based paint, varnish, in wate","#730049
+","array([ 6.09979721, -1.86627043])"
+63,3402,0,18.6826171875,"array([2177.34814453, 2402.88476562])",Anionic surface-active agents,"#730049
+","array([ 6.08836076, -1.83873384])"
+64,3921,0,17.831787109375,"array([2143.01672363, 2471.83813477])","Sheet etc, cellular of polymers of styrene","#730049
+","array([ 6.10911328, -1.85900965])"
+65,8477,0,18.5135498046875,"array([1579.74078369, 2559.49829102])",Injection-moulding machines for rubber or plastic,"#299fff
+","array([ 6.40699584, -2.16820556])"
+66,8443,0,32.6881103515625,"array([1271.65057373, 2609.82617188])",Reel fed offset printing machinery,"#99ffff
+","array([ 6.77597547, -1.99436244])"
+67,7410,0,15.75341796875,"array([1228.66674805, 2731.14819336])","Foil of refined copper, not backed, t < 0.15mm","#99ffff
+","array([ 6.82085133, -2.06004427])"
+68,7006,0,15.154541015625,"array([1229.45373535, 2710.15600586])","Cast, drawn or float glass sheet, edge worked or bent","#99ffff
+","array([ 6.78145643, -2.03349326])"
+69,8413,0,23.2236328125,"array([1545.4822998, 2467.4621582])","Pumps dispensing fuel, lubricants in filling stations","#299fff
+","array([ 6.43659779, -1.97790217])"
+70,8541,0,27.1357421875,"array([1239.97790527, 2671.41699219])","Diodes, except photosensitive and light emitting","#99ffff
+","array([ 6.75358111, -2.00630315])"
+71,8534,0,20.0,"array([1266.26147461, 2704.11816406])",Electronic printed circuits,"#99ffff
+","array([ 6.78109779, -2.01748909])"
+72,8522,0,16.451904296875,"array([1230.40673828, 2604.59765625])",Pick-up cartridges,"#99ffff
+","array([ 6.7516241 , -1.98489487])"
+73,8473,0,36.63134765625,"array([1172.23596191, 2623.82983398])","Parts and accessories of typewriters, word processors","#99ffff
+","array([ 6.80022634, -2.00464283])"
+74,8417,0,15.830322265625,"array([1914.60559082, 2362.80249023])",Furnaces/ovens non-electric for ores/pyrites/metals,"#299fff
+","array([ 6.20373868, -1.94841968])"
+75,7019,0,16.626953125,"array([1872.3770752, 2490.2097168])","Slivers, rovings, yarn and chopped strands of glass","#299fff
+","array([ 6.2490029 , -1.86622396])"
+76,4707,0,16.22900390625,"array([2165.98339844, 2475.06420898])",Waste or scrap of unbleached kraft or paperboard,"#ff0000
+","array([ 6.0791467 , -1.89727162])"
+77,5602,0,15.0087890625,"array([2145.20214844, 2391.58959961])",Needleloom felt and stitch-bonded fibre fabric,"#ff0000
+","array([ 6.09341609, -1.91309295])"
+78,6202,0,16.677490234375,"array([2545.15148926, 2357.54663086])","Womens, girls overcoats etc of wool or hair not knit","#33cc00
+","array([ 6.09580974, -1.69163944])"
+79,3506,0,16.107666015625,"array([2064.62976074, 2503.35693359])","Glues and adhesives of all kinds, package <1 kg","#730049
+","array([ 6.14093937, -1.90425112])"
+80,7404,0,17.785400390625,"array([2432.3338623 , 2320.48779297])",Copper/copper alloy waste or scrap,"#330000
+","array([ 6.00218325, -1.70471424])"
+81,2501,0,15.20849609375,"array([2114.25585938, 2943.54003906])","Salt (sodium chloride) including solution, salt water","#d1ff00
+","array([ 5.49043851, -2.04768952])"
+82,2402,0,17.9345703125,"array([2414.61279297, 2353.58959961])","Cigars, cheroots and cigarillos, containing tobacco","#bf8845
+","array([ 5.99948887, -1.7900275 ])"
+83,7308,0,21.681884765625,"array([2344.06604004, 2352.11291504])","Bridges and bridge sections, iron or steel","#ff0000
+","array([ 6.11190004, -1.78767515])"
+84,8432,0,15.989013671875,"array([2108.80114746, 2349.2746582 ])",Ploughs,"#299fff
+","array([ 6.1711891 , -1.87867053])"
+85,1605,0,15.962890625,"array([2156.90649414, 2893.58520508])","Crab, prepared or preserved","#d1ff00
+","array([ 5.48838918, -2.09352175])"
+86,2603,0,20.0,"array([2270.16210938, 1780.1105957 ])",Copper ores and concentrates,"#330000
+","array([ 5.57453813, -2.6019941 ])"
+87,8105,0,15.7352294921875,"array([1090.30780029, 2442.05688477])","Cobalt, unwrought, matte, waste or scrap, powders","#330000
+","array([ 7.03561947, -1.74178823])"
+88,8437,0,15.125,"array([1369.86254883, 2449.44140625])","Machines to clean, sort, grade seed,grain, dry legume","#9c9a87
+","array([ 6.33303757, -1.7005471 ])"
+89,2530,0,15.079833984375,"array([1375.82727051, 2479.01464844])","Vermiculite, perlite and chlorites, unexpanded","#330000
+","array([ 6.34777216, -1.64738011])"
+90,7106,0,17.585205078125,"array([2012.29077148, 1809.78533936])",Silver powder,"#330000
+","array([ 5.81961507, -2.80573257])"
+91,2529,0,15.03662109375,"array([1982.27331543, 1772.03887939])",Feldspar,"#330000
+","array([ 5.80102587, -2.8405552 ])"
+92,2612,0,15.13739013671875,"array([1010.35049438, 2417.33251953])",Uranium ores and concentrates,"#330000
+","array([ 7.12918157, -1.68789576])"
+93,2602,0,15.961669921875,"array([1067.58996582, 2428.7265625 ])","Manganese ores, concentrates, iron ores >20% Manganes","#330000
+","array([ 7.08836614, -1.70723395])"
+94,7203,0,15.2991943359375,"array([ 994.29528809, 2240.13037109])",Ferrous products from direct reduction of iron ore,"#330000
+","array([ 6.89994299, -1.45343884])"
+95,2601,0,26.4874267578125,"array([ 943.77752686, 2228.8170166 ])","Iron ore, concentrate, not iron pyrites,unagglomerate","#330000
+","array([ 6.92849143, -1.4195886 ])"
+96,3207,0,15.468017578125,"array([1263.09301758, 2055.18054199])","Pigment, opacifier, colours etc for ceramics or glass","#9c219c
+","array([ 6.6663436 , -1.76715137])"
+97,3814,0,15.1435546875,"array([2125.46728516, 2607.51025391])","Organic composite solvents, paint, varnish remover et","#730049
+","array([ 6.13912543, -1.93388749])"
+98,407,0,15.270263671875,"array([2177.9979248, 2226.4765625])","Birds eggs, in shell, fresh, preserved or cooked","#d1ff00
+","array([ 6.07400471, -1.95527599])"
+99,8902,0,15.0228271484375,"array([2051.67266846, 2764.62475586])",Fishing vessels and factory ships,"#9c9a87
+","array([ 5.94215955, -2.08583376])"
+100,3913,0,15.12939453125,"array([1348.66894531, 2091.06555176])","Alginic acid, its salts & esters, in primary forms","#9c219c
+","array([ 6.55419718, -1.79410032])"
+101,6301,0,15.310546875,"array([2767.5065918 , 2508.38378906])",Electric blankets of textile material,"#33cc00
+","array([ 6.09287886, -1.40728938])"
+102,8458,0,16.154296875,"array([1510.85888672, 2580.62695312])",Horizontal numerically controlled metal work lathes,"#299fff
+","array([ 6.40922826, -2.00695248])"
+103,8111,0,15.08935546875,"array([2758.41796875, 2646.96362305])","Manganese, articles thereof, waste or scrap","#330000
+","array([ 6.22378712, -1.38305965])"
+104,7614,0,15.052734375,"array([2680.49780273, 2194.40942383])","Aluminium wire, cables, etc, steel core, uninsulated","#9c9a87
+","array([ 6.00102803, -1.60356704])"
+105,5504,0,15.19024658203125,"array([1028.64376831, 2075.33435059])","Staple fibres of viscose rayon, not carded or combed","#9c219c
+","array([ 6.88923894, -1.68691805])"
+106,2934,0,19.188720703125,"array([1089.23046875, 2122.96716309])",Heterocyclic compounds with an unfused thiazole ring,"#9c219c
+","array([ 6.86106508, -1.72222344])"
+107,2931,0,16.056396484375,"array([1132.84204102, 2136.58996582])","Organo-inorganic compounds, nes","#9c219c
+","array([ 6.78259083, -1.77409532])"
+108,8539,0,17.70556640625,"array([1491.17431641, 2149.56176758])",Sealed beam lamp units,"#299fff
+","array([ 6.60497815, -2.00134132])"
+109,2929,0,15.816162109375,"array([1474.375     , 2207.75537109])",Isocyanates,"#299fff
+","array([ 6.56701797, -1.96595024])"
+110,2926,0,15.68701171875,"array([1421.30114746, 2095.60778809])",Acrylonitrile,"#9c219c
+","array([ 6.72401973, -1.77226163])"
+111,8904,0,15.568603515625,"array([2806.10559082, 2377.30163574])",Tugs and pusher craft,"#33cc00
+","array([ 6.09854034, -1.535313  ])"
+112,6215,0,15.024169921875,"array([1395.72119141, 2832.421875  ])","Ties, bow ties and cravats, of silk, not knit","#9c9a87
+","array([ 7.17262825, -2.10224553])"
+113,6303,0,15.411376953125,"array([2629.49206543, 2150.85290527])","Curtains drapes blinds valances, cotton, knit","#33cc00
+","array([ 5.96991826, -1.52164538])"
+114,6306,0,15.263671875,"array([2652.15185547, 2091.49975586])","Tarpaulins, awnings and sunblinds, of cotton","#33cc00
+","array([ 5.93402436, -1.47832964])"
+115,9603,0,15.75,"array([2598.15454102, 2147.30761719])",Brooms/brushes of vegetable material,"#33cc00
+","array([ 5.98160689, -1.54856052])"
+116,8430,0,17.32666015625,"array([1632.45715332, 1983.21594238])",Pile-drivers and pile-extractors,"#299fff
+","array([ 6.4115723 , -2.26401288])"
+117,6404,0,16.453125,"array([2737.10327148, 2560.17089844])","Sports footwear, sole rubber or plastic, upper textil","#33cc00
+","array([ 6.16843925, -1.51661602])"
+118,6505,0,15.406982421875,"array([2728.00695801, 2631.08081055])",Hair-nets of any material,"#33cc00
+","array([ 6.19405174, -1.3731733 ])"
+119,6001,0,15.248779296875,"array([2805.43908691, 2482.07226562])",Long pile knit or crochet textile fabric,"#33cc00
+","array([ 6.11772148, -1.35938851])"
+120,8461,0,15.327880859375,"array([1639.47766113, 2828.20214844])",Metal planing machines,"#299fff
+","array([ 6.43134737, -2.40994074])"
+121,3304,0,18.77099609375,"array([1705.73571777, 2827.17675781])",Lip make-up preparations,"#6e451e
+","array([ 6.55297569, -2.21564737])"
+122,8548,0,15.42822265625,"array([1314.45739746, 2553.88452148])","Electrical parts of machinery and apparatus, nes","#99ffff
+","array([ 6.66035693, -1.99020738])"
+123,7208,0,28.004150390625,"array([2205.0369873 , 2047.86712646])","Hot rolled iron or non-alloy steel, coil,w >600mm, t >10mm, myp 355 mpa","#330000
+","array([ 5.94251096, -2.20900161])"
+124,8415,0,20.153076171875,"array([1359.23583984, 2659.89282227])","Air conditioners window/wall types, self-contained","#99ffff
+","array([ 6.57194677, -2.04432012])"
+125,9606,0,15.119873046875,"array([2767.40686035, 2536.49780273])","Press-fasteners, snap-fasteners and press-studs, part","#33cc00
+","array([ 6.14075427, -1.45522524])"
+126,4002,0,17.94189453125,"array([1377.32836914, 2158.64611816])",Styrene-butadiene rubber (SBR/XSBR) latex,"#9c219c
+","array([ 6.66711851, -1.79620836])"
+127,1512,0,15.983154296875,"array([2303.30603027, 2660.8762207 ])","Sunflower-seed or safflower oil, crude","#d1ff00
+","array([ 6.22417276, -1.65939824])"
+128,8423,0,15.378662109375,"array([1302.60119629, 2483.7565918 ])","Personal weighing machines, baby & household scales","#99ffff
+","array([ 6.64121559, -1.96800634])"
+129,3603,0,15.039794921875,"array([2320.52819824, 2645.67333984])","Safety or detonating fuses, detonators, igniters","#9c9a87
+","array([ 6.25734083, -1.66771436])"
+130,8531,0,17.515625,"array([1340.95654297, 2563.11157227])",Burglar or fire alarms and similar apparatus,"#99ffff
+","array([ 6.69440791, -2.03959147])"
+131,9503,0,19.57958984375,"array([1199.49707031, 2829.61425781])","Electric trains, train sets, etc","#99ffff
+","array([ 6.86809758, -1.89177973])"
+132,8521,0,17.521484375,"array([1173.37585449, 2729.5012207 ])","Video recording/reproducing apparatus, magnetic tape","#99ffff
+","array([ 6.87558368, -1.92753548])"
+133,8525,0,43.57763671875,"array([1087.8079834 , 2544.99072266])","Transmission apparatus for radio, telephone and TV","#99ffff
+","array([ 6.85570775, -1.98659841])"
+134,9207,0,15.181884765625,"array([1191.11645508, 2468.63330078])",Keyboard instruments electrical/requiring amplifier,"#99ffff
+","array([ 6.86609609, -2.11887675])"
+135,8507,0,19.291015625,"array([1340.52148438, 2699.88208008])",Lead-acid electric accumulators (vehicle),"#99ffff
+","array([ 6.73947856, -1.9052047 ])"
+136,9506,0,18.131591796875,"array([1284.90246582, 2784.90844727])",Snow-skis and parts,"#99ffff
+","array([ 6.76731044, -2.12710764])"
+137,9020,0,15.0068359375,"array([1475.09448242, 2707.37475586])",Breathing appliances and gas masks,"#299fff
+","array([ 6.62257294, -2.07586681])"
+138,8706,0,15.5458984375,"array([1463.734375  , 2746.65722656])",Motor vehicle chassis fitted with engine,"#299fff
+","array([ 6.60818626, -2.03020566])"
+139,8476,0,15.14501953125,"array([1504.37634277, 2219.14819336])",Automatic food-vendors with heating or refrigeration,"#299fff
+","array([ 6.51124338, -1.97603572])"
+140,3104,0,18.715087890625,"array([1534.22680664, 2021.23651123])","Carnallite, sylvite, crude potassium salts nes, >10kg","#330000
+","array([ 6.54176711, -2.31319096])"
+141,4301,0,15.2119140625,"array([1524.94348145, 2128.38427734])","Raw mink furskins, whole","#d1ff00
+","array([ 6.48097886, -2.19637629])"
+142,5512,0,15.31591796875,"array([2687.77172852, 2619.73046875])",Woven fabric >85% polyester staple fibre unbl/bleache,"#33cc00
+","array([ 6.29256107, -1.5550898 ])"
+143,6403,0,22.4775390625,"array([2697.41381836, 2468.47973633])","Ski footwear, with uppers of leather","#33cc00
+","array([ 6.13231244, -1.62335884])"
+144,6302,0,17.239990234375,"array([2664.72375488, 2464.49853516])","Bed linen, of textile knit or crochet materials","#33cc00
+","array([ 6.13138151, -1.6397801 ])"
+145,5516,0,15.162109375,"array([2621.328125  , 2619.95800781])","Woven fabric <85% artif staple fibres, unbl/bleached","#33cc00
+","array([ 6.38320763, -1.63726281])"
+146,8480,0,17.050048828125,"array([1687.36352539, 2231.77270508])","Boxes, moulding, for metal foundry","#299fff
+","array([ 6.26353467, -2.05022823])"
+147,8419,0,20.944580078125,"array([1650.6270752 , 2359.89526367])",Instantaneous gas water heaters,"#299fff
+","array([ 6.35312816, -1.98076871])"
+148,6002,0,17.642578125,"array([2768.64013672, 2464.83666992])","Knit or crochet fabric, width <30 cm, >5% elastomer","#33cc00
+","array([ 6.09868167, -1.45492626])"
+149,8537,0,19.8756103515625,"array([1905.12811279, 2307.03393555])","Electrical control and distribution boards, < 1kV","#299fff
+","array([ 6.24777368, -1.93594806])"
+150,6112,0,15.446533203125,"array([2570.55944824, 2354.35119629])","Track suits, of cotton, knit","#33cc00
+","array([ 6.11793387, -1.66949237])"
+151,6107,0,15.5966796875,"array([2548.87573242, 2426.29846191])","Mens, boys underpants or briefs, of cotton, knit","#33cc00
+","array([ 6.09400504, -1.66764924])"
+152,8485,0,16.181884765625,"array([1674.99401855, 2266.13024902])",Ships or boats propellers and blades thereof,"#299fff
+","array([ 6.34097036, -1.98616148])"
+153,8421,0,22.1240234375,"array([1577.35107422, 2357.34155273])",Cream separators,"#299fff
+","array([ 6.39354428, -1.95941322])"
+154,5906,0,15.037841796875,"array([1726.38146973, 2117.60400391])",Rubberised textile adhesive tape < 20cm wide,"#299fff
+","array([ 6.32314507, -2.14635686])"
+155,8467,0,16.185791015625,"array([1627.8560791 , 2232.00439453])","Tools for working in the hand, pneumatic rotary type","#299fff
+","array([ 6.35013716, -2.04844892])"
+156,8529,0,26.498779296875,"array([1279.65661621, 2646.4699707 ])",Aerials and aerial reflectors,"#99ffff
+","array([ 6.68382836, -2.00667353])"
+157,8475,0,15.400390625,"array([1549.01525879, 2403.77514648])","Machines to assemble electric lamps, glass envelope","#299fff
+","array([ 6.41731669, -1.9609548 ])"
+158,3215,0,16.394775390625,"array([1315.69921875, 2179.57897949])","Printing ink, black","#9c219c
+","array([ 6.43918721, -1.82452257])"
+159,2910,0,15.447509765625,"array([1161.77478027, 2169.80517578])",Oxirane (ethylene oxide),"#9c219c
+","array([ 6.66335552, -1.83204301])"
+160,3702,0,15.4365234375,"array([1167.45776367, 2204.01501465])","Photographic film, rolls, for x-ray","#9c219c
+","array([ 6.69018138, -1.80059446])"
+161,8545,0,15.854248046875,"array([1703.61486816, 2737.46020508])",Carbon and graphite furnace electrodes,"#299fff
+","array([ 6.43002712, -2.13743092])"
+162,2712,0,15.622314453125,"array([1572.57385254, 2019.8659668 ])",Petroleum jelly,"#9c9a87
+","array([ 6.44525823, -1.57518471])"
+163,7312,0,15.93798828125,"array([2149.21118164, 2107.75952148])","Stranded steel wire/cable/etc, no electric insulation","#299fff
+","array([ 6.0106207 , -2.16456416])"
+164,4703,0,18.97125244140625,"array([1023.63729858, 2251.94262695])","Chem wood pulp, soda or sulphate, conifer, unbleached","#9c219c
+","array([ 6.86591216, -1.5041269 ])"
+165,7206,0,15.249755859375,"array([1563.43493652, 2077.12902832])","Iron or non-alloy steel in ingots, <99.94% iron","#299fff
+","array([ 6.42476692, -1.63053801])"
+166,7907,0,15.0244140625,"array([1988.54455566, 2276.11474609])","Zinc fabricated building components (gutters,etc)","#299fff
+","array([ 6.18717242, -1.91555433])"
+167,8205,0,15.80810546875,"array([1859.64672852, 2525.54638672])","Drilling, threading or tapping tools","#299fff
+","array([ 6.26068541, -2.00045074])"
+168,8501,0,21.466064453125,"array([2066.57971191, 2322.63183594])",Electric motors of an output < 37.5 watts,"#299fff
+","array([ 6.15950897, -1.90774247])"
+169,3926,0,22.760009765625,"array([1848.81982422, 2295.46899414])",Plastic office and school articles and supplies,"#299fff
+","array([ 6.26141817, -1.93308558])"
+170,7306,0,19.15673828125,"array([2294.5300293 , 2354.03625488])","Pipe (oil/gas line) iron or steel nes, diameter <406m","#ff0000
+","array([ 6.12470932, -1.80727943])"
+171,7321,0,16.115234375,"array([2175.0612793 , 2364.80029297])","Cooking appliances for gas fuel, etc, iron or steel","#ff0000
+","array([ 6.17787803, -1.85895796])"
+172,7314,0,15.646484375,"array([2160.99316406, 2333.72729492])",Woven products of stainless steel,"#299fff
+","array([ 6.1500389 , -1.83146248])"
+173,4421,0,15.675048828125,"array([2177.20788574, 2329.54077148])",Clothes hangers of wood,"#299fff
+","array([ 6.16211367, -1.84392736])"
+174,8455,0,16.063232421875,"array([1593.67041016, 2222.2746582 ])","Tube mills, metal rolling","#299fff
+","array([ 6.37010705, -2.03035974])"
+175,3916,0,15.6953125,"array([1719.41772461, 2479.85864258])","Monofilament(>1mm), rods, etc, ethylene polymers","#299fff
+","array([ 6.24889647, -2.03524302])"
+176,4205,0,15.1240234375,"array([2059.45922852, 2280.52392578])","Articles of leather and composition leather, nes","#299fff
+","array([ 6.11697064, -1.93633596])"
+177,3908,0,16.63720703125,"array([1285.25146484, 2216.3815918 ])","Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12","#9c219c
+","array([ 6.53572788, -1.80515681])"
+178,8703,0,56.369384765625,"array([1929.63781738, 2402.33764648])",Automobiles,"#299fff
+","array([ 6.24195874, -1.98088095])"
+179,2915,0,16.767822265625,"array([1357.30053711, 2356.08947754])",Formic acid,"#9c219c
+","array([ 6.46001995, -1.84040391])"
+180,8401,0,15.658447265625,"array([1328.84899902, 2016.89874268])",Nuclear reactors,"#9c219c
+","array([ 6.59445294, -1.87225935])"
+181,3902,0,20.137939453125,"array([1544.12487793, 2224.98925781])",Polypropylene in primary forms,"#299fff
+","array([ 6.39109794, -1.99391049])"
+182,910,0,15.091552734375,"array([2722.93884277, 2369.73815918])",Ginger,"#33cc00
+","array([ 6.0495254 , -1.62048655])"
+183,6910,0,15.626220703125,"array([2482.66271973, 2385.43139648])","Porcelain bathroom, kitchen & other sanitary fixtures","#ff0000
+","array([ 6.1028136 , -1.72983409])"
+184,6106,0,15.827392578125,"array([2602.29406738, 2438.30322266])","Womens, girls blouses & shirts, of cotton, knit","#33cc00
+","array([ 6.072526 , -1.6297607])"
+185,6103,0,15.6279296875,"array([2621.69873047, 2348.68798828])","Mens, boys suits, of wool, fine animal hair, knit","#33cc00
+","array([ 6.0753864 , -1.64014533])"
+186,806,0,15.970458984375,"array([2542.09387207, 2790.02148438])","Grapes, fresh","#d1ff00
+","array([ 5.69872308, -1.44480442])"
+187,807,0,15.249267578125,"array([2454.15002441, 2588.89257812])","Melons (including watermelons), fresh","#bf8845
+","array([ 5.89667756, -1.75440992])"
+188,811,0,15.348876953125,"array([2436.75134277, 2373.30883789])","Strawberries, (uncooked steamed or boiled), frozen","#bf8845
+","array([ 6.10867227, -1.76447515])"
+189,813,0,15.1181640625,"array([2571.01855469, 2795.27270508])","Apricots, dried","#d1ff00
+","array([ 5.70278308, -1.50853443])"
+190,6809,0,15.157958984375,"array([2202.42980957, 2440.96508789])","Plaster board etc not ornamental, paper reinforced","#ff0000
+","array([ 6.15869649, -1.80854275])"
+191,6109,0,19.792724609375,"array([2647.3145752 , 2365.28833008])","T-shirts, singlets and other vests, of cotton, knit","#33cc00
+","array([ 6.08443411, -1.66042828])"
+192,6108,0,16.50048828125,"array([2605.69213867, 2385.23681641])","Womens, girls slips or petticoats, manmade fibre knit","#33cc00
+","array([ 6.07179835, -1.66489723])"
+193,4409,0,15.68212890625,"array([2242.44604492, 2190.52429199])",Coniferous wood continuously shaped along any edges,"#330000
+","array([ 5.97237508, -1.73715527])"
+194,1507,0,16.77880859375,"array([2699.18286133, 2794.43481445])","Soya-bean oil crude, whether or not degummed","#d1ff00
+","array([ 5.49453994, -1.51494382])"
+195,809,0,15.493896484375,"array([2601.34680176, 2754.6472168 ])","Apricots, fresh","#d1ff00
+","array([ 5.74479606, -1.51373837])"
+196,705,0,15.1728515625,"array([2668.2578125 , 2788.95141602])",Cabbage lettuce (head lettuce) fresh or chilled,"#d1ff00
+","array([ 5.55674635, -1.52043973])"
+197,713,0,15.916015625,"array([2494.01660156, 2720.20922852])","Peas dried, shelled","#d1ff00
+","array([ 5.76679272, -1.4709422 ])"
+198,710,0,15.658447265625,"array([2571.07189941, 2666.2409668 ])","Potatoes, frozen, uncooked steamed or boiled","#d1ff00
+","array([ 5.95259089, -1.6471446 ])"
+199,810,0,15.922119140625,"array([2500.56164551, 2601.01855469])","Strawberries, fresh","#bf8845
+","array([ 5.87082374, -1.73554883])"
+200,708,0,15.018310546875,"array([2508.74694824, 2568.60449219])","Peas, shelled or unshelled, fresh or chilled","#bf8845
+","array([ 5.90013615, -1.72657916])"
+201,1509,0,15.772705078125,"array([2694.05236816, 2831.49975586])","Olive oil, virgin","#d1ff00
+","array([ 5.52249565, -1.54399583])"
+202,1516,0,15.52880859375,"array([2437.89233398, 2599.0045166 ])","Animal fats, oils, fractions, hydrogenated, esterifie","#bf8845
+","array([ 5.86282437, -1.82000018])"
+203,803,0,16.4197998046875,"array([2040.88775635, 2936.25024414])","Bananas, including plantains, fresh or dried","#d1ff00
+","array([ 5.28404077, -2.1003246 ])"
+204,714,0,15.05615234375,"array([2002.15673828, 2966.80664062])","Manioc (cassava), fresh or dried","#d1ff00
+","array([ 5.24541212, -2.10907527])"
+205,1517,0,15.66748046875,"array([2433.59838867, 2535.20629883])","Margarine, except liquid margarine","#bf8845
+","array([ 5.9343272 , -1.81580473])"
+206,7412,0,15.477294921875,"array([1567.91101074, 2768.5078125 ])","Pipe & tube fittings, of refined copper","#299fff
+","array([ 6.54353952, -2.11856064])"
+207,8516,0,20.391845703125,"array([1531.95080566, 2749.48413086])","Electric instant, storage and immersion water heaters","#299fff
+","array([ 6.50939176, -2.10446768])"
+208,8201,0,15.048583984375,"array([2535.02844238, 2163.14599609])",Spades and shovels,"#9c9a87
+","array([ 5.97584034, -1.63125988])"
+209,8204,0,15.2021484375,"array([1577.37854004, 2652.62878418])","Wrenches, hand-operated, with non-adjustable jaws","#299fff
+","array([ 6.3884727 , -2.09332396])"
+210,8448,0,15.548095703125,"array([1647.45593262, 2696.21191406])","Dobbies, Jacquards, etc for spinning machines & looms","#299fff
+","array([ 6.39392105, -2.12260622])"
+211,8535,0,16.2276611328125,"array([2045.85540771, 2306.16552734])","Electrical fuses, for voltage > 1kV","#299fff
+","array([ 6.23852038, -1.85046005])"
+212,7228,0,17.25390625,"array([2211.03393555, 2116.93225098])",Bar/rod of high speed steel not in coils,"#299fff
+","array([ 6.31271965, -1.5831213 ])"
+213,7223,0,15.184814453125,"array([1620.1541748 , 2674.26293945])",Wire of stainless steel,"#299fff
+","array([ 6.39018364, -2.15008197])"
+214,8711,0,18.18408203125,"array([1359.36352539, 2857.5793457 ])","Motorcycles, spark ignition engine of < 50 cc","#0576a6
+","array([ 7.14291438, -2.21904041])"
+215,7317,0,15.28759765625,"array([2525.59790039, 2075.55444336])","Nails/staples/etc, iron/steel, not office stationary","#9c9a87
+","array([ 5.92968994, -1.58884783])"
+216,2604,0,15.336181640625,"array([1071.39831543, 2390.4597168 ])",Nickel ores and concentrates,"#330000
+","array([ 7.01987509, -1.78469927])"
+217,7501,0,16.22216796875,"array([1038.80627441, 2371.19433594])",Nickel mattes,"#330000
+","array([ 7.06612092, -1.79082417])"
+218,2616,0,15.33447265625,"array([2310.62426758, 1758.42285156])",Silver ores and concentrates,"#330000
+","array([ 5.55273959, -2.63575676])"
+219,7403,0,23.750244140625,"array([2213.83679199, 1803.8626709 ])",Copper cathodes and sections of cathodes unwrought,"#330000
+","array([ 5.60037721, -2.55886821])"
+220,2606,0,15.29345703125,"array([1782.1796875 , 2831.41967773])",Aluminium ores and concentrates,"#330000
+","array([ 6.23384978, -2.3359667 ])"
+221,2818,0,17.997802734375,"array([1748.72619629, 2760.13500977])",Artificial corundum,"#330000
+","array([ 6.24368949, -2.27629229])"
+222,7502,0,17.73486328125,"array([1112.45690918, 2426.57177734])","Nickel unwrought, not alloyed","#330000
+","array([ 6.96085961, -1.78061395])"
+223,2605,0,15.060302734375,"array([1048.68920898, 2483.48486328])",Cobalt ores and concentrates,"#330000
+","array([ 7.07897386, -1.73970948])"
+224,3918,0,15.4951171875,"array([1411.98205566, 2162.74682617])","Floor, wall, ceiling cover, roll, tile, vinyl chlorid","#9c9a87
+","array([ 6.61287327, -1.77385475])"
+225,3904,0,17.50830078125,"array([1669.08837891, 2085.20214844])",Polyvinyl chloride in primary forms,"#299fff
+","array([ 6.39966308, -2.04890283])"
+226,2608,0,15.820068359375,"array([2512.21984863, 2910.43884277])",Zinc ores and concentrates,"#330000
+","array([ 5.64725568, -1.34913029])"
+227,2610,0,15.317626953125,"array([1465.07751465, 2100.6048584 ])",Chromium ores and concentrates,"#330000
+","array([ 6.6915667 , -1.57506703])"
+228,7005,0,15.84375,"array([2168.078125  , 2173.78955078])","Float glass etc sheets, absorbent or reflecting layer","#299fff
+","array([ 6.0635157 , -2.04449577])"
+229,5902,0,15.2861328125,"array([2147.79248047, 2163.4609375 ])","Tyre cord fabric of nylon, polyamides","#299fff
+","array([ 6.04496479, -2.10663403])"
+230,8212,0,15.453125,"array([1416.77307129, 2125.58007812])","Razors including safety razors, open blade razors","#9c219c
+","array([ 6.70612995, -1.74801345])"
+231,6309,0,15.2216796875,"array([2160.48608398, 2611.50830078])",Worn clothing and other worn articles,"#9c9a87
+","array([ 6.04566415, -1.90678097])"
+232,1701,0,17.949462890625,"array([2495.4864502 , 2192.30761719])","Raw sugar, cane","#d1ff00
+","array([ 5.97210749, -1.67859996])"
+233,1702,0,15.633544921875,"array([1827.02416992, 2707.4465332 ])",Lactose and lactose syrup,"#d1ff00
+","array([ 6.30975522, -1.84914748])"
+234,9303,0,15.011474609375,"array([1475.82397461, 2485.32006836])",Muzzle-loading firearms,"#299fff
+","array([ 6.36589597, -1.87253092])"
+235,2933,0,23.9208984375,"array([1217.76977539, 2041.29858398])","Phenazone (antipyrin), derivatives","#9c219c
+","array([ 6.53388997, -1.6740325 ])"
+236,8202,0,15.384765625,"array([1505.66540527, 2493.67333984])",Hand saws,"#299fff
+","array([ 6.40957344, -1.94046038])"
+237,8416,0,15.28857421875,"array([1514.2800293 , 2317.41748047])",Furnace burners for liquid fuel,"#299fff
+","array([ 6.38216384, -1.92758152])"
+238,2921,0,16.5843505859375,"array([1194.05706787, 2081.88085938])","Methylamine, di- or trimethylamine, salts","#9c219c
+","array([ 6.56010898, -1.69163686])"
+239,5603,0,16.4886474609375,"array([1947.13409424, 2449.05786133])",Nonwovens textiles except felt,"#730049
+","array([ 6.28533368, -1.87739065])"
+240,2920,0,15.039794921875,"array([1241.31311035, 2073.44641113])","Thiophosphoric esters(phosphorothioates),salts,derivs","#9c219c
+","array([ 6.55391891, -1.662979  ])"
+241,2925,0,15.03466796875,"array([1241.22558594, 2096.57470703])","Saccharin, salts","#9c219c
+","array([ 6.53400469, -1.70034021])"
+242,2935,0,15.460205078125,"array([1220.30078125, 2086.91247559])",Sulphonamides in bulk,"#9c219c
+","array([ 6.54319848, -1.72716821])"
+243,2936,0,16.00244140625,"array([1284.97290039, 2188.08935547])","Provitamins, unmixed","#9c219c
+","array([ 6.50387263, -1.80693368])"
+244,2912,0,15.149658203125,"array([1259.62817383, 2109.04760742])",Methanal (formaldehyde),"#9c219c
+","array([ 6.53964549, -1.77635668])"
+245,9025,0,15.393310546875,"array([1534.84057617, 2243.29516602])","Thermometers, liquid-filled","#299fff
+","array([ 6.38716366, -1.90128241])"
+246,8203,0,15.134033203125,"array([1873.47436523, 2638.52661133])","Files, rasps and similar tools","#299fff
+","array([ 6.2308408 , -2.07631402])"
+247,8104,0,15.2587890625,"array([1654.55541992, 2900.24987793])",Magnesium unwrought > 99.8% pure,"#330000
+","array([ 6.55306663, -2.4265372 ])"
+248,8102,0,15.13134765625,"array([1612.82409668, 2913.05786133])","Molybdenum, powder","#9c9a87
+","array([ 6.51345952, -2.45529624])"
+249,8303,0,15.0037841796875,"array([1805.05352783, 2695.58764648])","Safes/strong-boxes etc, of base metal","#299fff
+","array([ 6.22425626, -2.03269955])"
+250,8715,0,15.148681640625,"array([2810.6751709 , 2739.05834961])",Baby carriages and parts thereof,"#9c9a87
+","array([ 6.40392933, -1.28242286])"
+251,5208,0,16.898681640625,"array([2711.78918457, 2588.63012695])","Plain weave cotton, >85% <100 g/m2, unbleached","#33cc00
+","array([ 6.12858198, -1.50178596])"
+252,8209,0,15.79345703125,"array([1472.09460449, 2164.14794922])","Tool plates/tips/etc, sintered metal carbide & cermet","#299fff
+","array([ 6.52604183, -1.93417063])"
+253,9612,0,15.11767578125,"array([1248.06616211, 2455.52783203])",Typewriter or similar ribbons,"#99ffff
+","array([ 6.65048956, -1.88995235])"
+254,8510,0,15.332763671875,"array([1701.63354492, 2051.28259277])","Shavers, with self-contained electric motor","#299fff
+","array([ 6.18157203, -2.19287253])"
+255,8305,0,15.009765625,"array([1699.35534668, 2145.03979492])","Office binder/file fittings, of base metal","#299fff
+","array([ 6.22039575, -2.14271262])"
+256,7615,0,15.369873046875,"array([2598.33044434, 2548.16967773])","Aluminium table/kitchen/household articles, scourers","#33cc00
+","array([ 6.20169486, -1.62935719])"
+257,5503,0,15.852294921875,"array([2184.10778809, 2125.76586914])","Staple fibres of nylon, polyamides, not carded, combe","#299fff
+","array([ 5.9897934 , -2.14216874])"
+258,805,0,16.502197265625,"array([2550.5111084 , 2913.75219727])","Oranges, fresh or dried","#d1ff00
+","array([ 5.66395616, -1.42712211])"
+259,9026,0,17.1982421875,"array([1427.73999023, 2347.10351562])",Equipment to measure or check liquid flow or level,"#299fff
+","array([ 6.43118678, -1.92188538])"
+260,302,0,16.506591796875,"array([2106.23034668, 2843.02587891])","Trout, fresh or chilled, whole","#d1ff00
+","array([ 5.56832163, -2.074787  ])"
+261,2916,0,16.1044921875,"array([1204.59997559, 2318.6472168 ])","Acrylic acid, salts","#9c219c
+","array([ 6.54926854, -1.82933495])"
+262,2505,0,15.12744140625,"array([2687.80493164, 2745.95263672])",Silica sands and quartz sands,"#330000
+","array([ 6.2612075 , -1.44652023])"
+263,706,0,15.051513671875,"array([2668.2557373 , 2827.03955078])","Carrots and turnips, fresh or chilled","#d1ff00
+","array([ 5.59620356, -1.50036337])"
+264,707,0,15.127197265625,"array([2618.56677246, 2901.890625  ])","Cucumbers and gherkins, fresh or chilled","#d1ff00
+","array([ 5.5258987 , -1.47349626])"
+265,602,0,15.96435546875,"array([2653.63696289, 2900.6315918 ])","Cuttings and slips, not rooted","#d1ff00
+","array([ 5.53868614, -1.4438185 ])"
+266,603,0,16.002685546875,"array([2901.49963379, 2107.95336914])","Cut flowers and flower buds for bouquets, etc., fresh","#d1ff00
+","array([ 5.89352131, -0.96447129])"
+267,409,0,15.031005859375,"array([2585.08679199, 2111.05578613])","Honey, natural","#d1ff00
+","array([ 5.99077026, -1.65738663])"
+268,601,0,15.07421875,"array([2059.96704102, 2840.50927734])","Bulbs, tubers, corms, crowns and rhizomes, dormant","#d1ff00
+","array([ 5.91006764, -2.13509738])"
+269,2515,0,15.125,"array([2468.30371094, 2869.84814453])","Marble and travertine, crude or roughly trimmed","#330000
+","array([ 5.46743412, -1.29406184])"
+270,5705,0,15.006103515625,"array([2430.33435059, 2922.87548828])","Carpets and textile floor coverings, nes","#9c9a87
+","array([ 5.37914994, -1.25605045])"
+271,1511,0,19.248779296875,"array([2884.43322754, 2173.9041748 ])","Palm oil, crude","#d1ff00
+","array([ 5.90337424, -1.0039929 ])"
+272,701,0,15.400634765625,"array([2448.79602051, 2898.68579102])","Potatoes seed, fresh or chilled","#d1ff00
+","array([ 5.41645815, -1.27389277])"
+273,1604,0,16.876708984375,"array([2182.65710449, 2822.85473633])","Salmon prepared or preserved, not minced","#d1ff00
+","array([ 5.57240561, -2.02949674])"
+274,307,0,16.112060546875,"array([2140.40563965, 2862.32202148])",Oysters,"#d1ff00
+","array([ 5.53342895, -2.05268082])"
+275,1601,0,15.39306640625,"array([2221.88061523, 2421.59423828])","Sausages, similar products of meat, meat offal & bloo","#730049
+","array([ 6.10948534, -1.8708798 ])"
+276,5608,0,15.008056640625,"array([2174.98059082, 2853.77758789])","Made up fishing nets, of manmade textile materials","#d1ff00
+","array([ 5.54661975, -2.01323743])"
+277,2103,0,16.07666015625,"array([2228.9909668 , 2458.92651367])",Soya sauce,"#730049
+","array([ 6.06972002, -1.84092452])"
+278,1602,0,16.76025390625,"array([2268.47387695, 2494.5559082 ])",Homogenized preparations of meat and meat offal,"#730049
+","array([ 6.06753931, -1.87074269])"
+279,2309,0,17.62109375,"array([2244.13208008, 2514.90185547])",Dog or cat food (retail),"#730049
+","array([ 6.05121808, -1.85965513])"
+280,2105,0,15.29150390625,"array([2276.3527832 , 2466.43041992])",Ice cream and other edible ice,"#730049
+","array([ 6.08735669, -1.85834634])"
+281,3208,0,16.799560546875,"array([2083.95397949, 2483.36425781])","Polyester based paints, varnishes, non-aqueous medium","#730049
+","array([ 6.14912928, -1.87700373])"
+282,2716,0,21.436767578125,"array([2309.44714355, 2553.49462891])",Electrical energy,"#9c9a87
+","array([ 6.14376611, -1.79745915])"
+283,1515,0,15.445068359375,"array([2664.79553223, 2688.95483398])","Linseed oil, crude","#d1ff00
+","array([ 6.2401702, -1.4971766])"
+284,9031,0,19.13818359375,"array([1342.76513672, 2456.54077148])","Machines for balancing mechanical parts, nes","#99ffff
+","array([ 6.54499835, -1.9706709 ])"
+285,3206,0,16.400146484375,"array([1476.70690918, 2245.41040039])",Pigments and preparations based on titanium dioxide,"#299fff
+","array([ 6.415893  , -1.85440429])"
+286,4805,0,16.294677734375,"array([2193.44006348, 2422.6484375 ])","Paper, fluting, in rolls, semi-chemical, uncoated","#ff0000
+","array([ 6.12325681, -1.92145116])"
+287,4401,0,15.6669921875,"array([2234.41137695, 2332.1730957 ])",Fuel wood,"#ff0000
+","array([ 6.10740979, -1.8888961 ])"
+288,4408,0,15.41259765625,"array([2271.22314453, 2227.71447754])","Veneer or ply sheet, coniferous (softwood) <6 mm thic","#330000
+","array([ 6.01770471, -1.79272503])"
+289,4403,0,17.099365234375,"array([2292.58044434, 2191.45812988])","Poles, treated or painted with preservatives","#330000
+","array([ 5.94764064, -1.79001893])"
+290,8607,0,16.5970458984375,"array([1895.40032959, 2535.3918457 ])",Railway & tramway driving bogies  & bissel-bogies,"#299fff
+","array([ 6.19470295, -1.97450103])"
+291,8530,0,15.22216796875,"array([1878.88842773, 2418.21948242])","Electric signal, safety & traffic controls, railway","#299fff
+","array([ 6.26756624, -1.91933723])"
+292,7222,0,15.998779296875,"array([1561.13439941, 2538.21704102])",Stainless steel bar nfw than hot rolled/drawn/extrude,"#299fff
+","array([ 6.37559958, -2.04614832])"
+293,7225,0,18.745849609375,"array([1501.09875488, 2367.19165039])","Flat rolled silicon-electrical steel, width >600mm","#299fff
+","array([ 6.40946036, -1.97828121])"
+294,7219,0,20.0,"array([1428.14025879, 2188.84790039])","Hot rolled stainless steel coil, w >600mm, t >10mm","#299fff
+","array([ 6.57107898, -1.81153625])"
+295,7221,0,15.22509765625,"array([1430.89331055, 2576.38317871])","Bar or rod, stainless steel, hot rolled, coiled","#299fff
+","array([ 6.63107516, -1.99060206])"
+296,7204,0,23.237548828125,"array([2422.08898926, 2277.27478027])","Waste or scrap, of cast iron","#330000
+","array([ 5.93750744, -1.69304261])"
+297,7216,0,18.578369140625,"array([2203.9119873 , 2246.86962891])","Sections, U/I/H, iron or non-alloy steel, nfw than hot formed <80mm","#299fff
+","array([ 6.20268577, -1.78252013])"
+298,8450,0,16.99462890625,"array([1556.63366699, 2603.56396484])","Automatic washing machines, of a dry capacity < 10 kg","#299fff
+","array([ 6.43940796, -2.00732597])"
+299,7013,0,16.072265625,"array([2088.84912109, 2138.81225586])","Glass-ceramic ware for table kitchen, etc","#299fff
+","array([ 6.1113201 , -2.09121087])"
+300,8465,0,16.2091064453125,"array([1888.56365967, 2352.54858398])",Multi-purpose machines for wood etc work,"#299fff
+","array([ 6.24507081, -1.94813498])"
+301,8409,0,24.2998046875,"array([1693.41333008, 2412.24609375])",Parts for spark-ignition aircraft engines,"#299fff
+","array([ 6.32149481, -1.96914349])"
+302,2101,0,15.766357421875,"array([2378.23864746, 2257.578125  ])","Coffee extracts, essences, concentrates, preparations","#ff0000
+","array([ 5.99140812, -1.86118679])"
+303,2201,0,15.34375,"array([2090.70019531, 2557.77807617])",Mineral and aerated waters not sweetened or flavoured,"#730049
+","array([ 6.16040576, -1.97229793])"
+304,2003,0,15.030029296875,"array([1053.69348145, 2231.67773438])","Mushrooms, prepared or preserved, not in vinegar","#9c219c
+","array([ 6.83222625, -1.52773114])"
+305,2401,0,16.46337890625,"array([2545.7253418, 2560.859375 ])","Tobacco, unmanufactured, not stemmed or stripped","#bf8845
+","array([ 5.94833619, -1.67403212])"
+306,3924,0,16.63525390625,"array([2832.04956055, 2425.31933594])",Plastic table and kitchen ware,"#9c9a87
+","array([ 6.06225236, -1.39106856])"
+307,6802,0,16.4208984375,"array([2487.76489258, 2823.7980957 ])","Stone mosaic tiles, artificial coloured chips etc","#330000
+","array([ 5.53331878, -1.31182136])"
+308,1804,0,15.529541015625,"array([2813.57336426, 2203.05639648])","Cocoa butter, fat, oil","#d1ff00
+","array([ 5.88889631, -1.14147562])"
+309,1902,0,15.91552734375,"array([2884.40893555, 2396.3371582 ])",Uncooked egg pasta not stuffed or prepared,"#9c9a87
+","array([ 6.03973187, -1.34286888])"
+310,2907,0,16.03564453125,"array([1260.94421387, 2194.68701172])","Phenol (hdroxybenzene), salts","#9c219c
+","array([ 6.52523379, -1.84859477])"
+311,3701,0,15.785400390625,"array([1201.78759766, 2205.19116211])",X-ray plates and films,"#9c219c
+","array([ 6.63979291, -1.83682924])"
+312,7220,0,15.728515625,"array([1409.9498291 , 2218.47167969])","Hot rolled stainless steel sheet, w <600mm, t >4.75 m","#299fff
+","array([ 6.48066741, -1.90009171])"
+313,3906,0,16.649658203125,"array([1252.21533203, 2163.69116211])","Polymethyl methacrylate, in primary forms","#9c219c
+","array([ 6.58700569, -1.84231102])"
+314,3707,0,15.774169921875,"array([1179.74255371, 2147.02270508])",Sensitising emulsions,"#9c219c
+","array([ 6.68574678, -1.82885777])"
+315,2903,0,16.2398681640625,"array([1202.41363525, 2133.24450684])",Chloromethane and chloroethane,"#9c219c
+","array([ 6.57174352, -1.77228671])"
+316,2203,0,16.5494384765625,"array([1970.24871826, 2639.41699219])",Beer made from malt,"#730049
+","array([ 6.2573924, -1.8351204])"
+317,2207,0,15.94287109375,"array([1936.73547363, 2579.53735352])",Undenatured ethyl alcohol > 80% by volume,"#730049
+","array([ 6.2876588 , -1.72961694])"
+318,7507,0,15.005615234375,"array([1372.02026367, 2296.23986816])","Tubes and pipe, nickel, not alloyed","#299fff
+","array([ 6.65461619, -1.92188424])"
+319,8108,0,15.681396484375,"array([1252.05895996, 2299.84228516])","Titanium, unwrought, waste or scrap, powders","#330000
+","array([ 6.73172221, -1.86092978])"
+320,9024,0,15.185302734375,"array([1472.49645996, 2289.00488281])",Machines for testing mechanical properties of metals,"#299fff
+","array([ 6.45860303, -1.95131768])"
+321,3911,0,15.64990234375,"array([1212.9855957 , 2172.08825684])","Petroleum resins, coumarone, indene, polyterpenes","#9c219c
+","array([ 6.62235899, -1.84659458])"
+322,8427,0,17.332763671875,"array([1371.2890625 , 2226.79418945])","Self-propelled works trucks, electric motor","#299fff
+","array([ 6.5665931 , -1.88912639])"
+323,8524,0,19.267578125,"array([1395.15454102, 2254.58911133])",Recorded gramophone records,"#9c219c
+","array([ 6.461289  , -1.91157998])"
+324,7002,0,15.0810546875,"array([1214.0670166 , 2230.45336914])",Glass balls except microspheres < 1mm diameter,"#9c219c
+","array([ 6.70121098, -1.86912123])"
+325,7506,0,15.105712890625,"array([1268.45446777, 2250.61157227])","Plates, sheet, strip and foil, nickel, not alloyed","#9c219c
+","array([ 6.67171381, -1.88551178])"
+326,5502,0,15.188720703125,"array([1182.66772461, 2260.12573242])",Artificial filament tow,"#9c219c
+","array([ 6.70489495, -1.82282899])"
+327,3910,0,15.77001953125,"array([1228.62585449, 2199.56396484])",Silicones in primary forms,"#9c219c
+","array([ 6.64128407, -1.86359418])"
+328,105,0,15.164794921875,"array([2217.38977051, 2603.90161133])","Fowls, live domestic < 185 grams","#d1ff00
+","array([ 6.21112638, -1.8210476 ])"
+329,1209,0,15.6474609375,"array([2515.21313477, 2648.60461426])","Seed, sugar beet, for sowing","#bf8845
+","array([ 5.8113278 , -1.71885507])"
+330,3922,0,15.42919921875,"array([2079.51953125, 2392.30175781])","Baths, shower-baths and wash basins, of plastics","#ff0000
+","array([ 6.15433727, -1.85521732])"
+331,8506,0,15.908447265625,"array([1122.62097168, 2216.28149414])",Manganese dioxide primary cell/battery volume < 300 c,"#9c219c
+","array([ 6.50996832, -1.73238075])"
+332,4014,0,15.02587890625,"array([1357.88562012, 2383.37036133])",Sheath contraceptives,"#9c219c
+","array([ 6.46106737, -1.77709998])"
+333,3204,0,16.79052734375,"array([1126.19042969, 2237.99902344])",Disperse dyes and preparations based thereon,"#9c219c
+","array([ 6.48082115, -1.72150817])"
+334,7303,0,15.222900390625,"array([2438.13586426, 2863.49829102])","Tubes, pipes and hollow profiles, of cast iron","#9c9a87
+","array([ 5.46661215, -1.23481437])"
+335,7117,0,15.678955078125,"array([1186.63024902, 2433.90380859])","Cuff-links and studs of base metal, plated or not","#9c219c
+","array([ 6.42854009, -1.69749965])"
+336,2922,0,17.177978515625,"array([1196.71044922, 1981.1673584 ])","Monoethanolmine, salts","#9c219c
+","array([ 6.55798281, -1.59465796])"
+337,2917,0,17.62109375,"array([1129.8458252 , 2190.29443359])","Oxalic acid, its salts & esters","#9c219c
+","array([ 6.71014998, -1.84599911])"
+338,3812,0,15.4906005859375,"array([1203.71075439, 2446.93774414])",Prepared rubber accelerators,"#9c219c
+","array([ 6.44497749, -1.71469908])"
+339,9105,0,15.02294921875,"array([1416.52185059, 2722.78613281])","Alarm clocks, battery or mains powered","#0576a6
+","array([ 6.97702824, -1.98801998])"
+340,6601,0,15.172119140625,"array([1436.0234375 , 2759.84399414])",Garden and similar umbrellas,"#9c9a87
+","array([ 7.02611189, -1.99081843])"
+341,7020,0,15.244140625,"array([1361.99145508, 2699.45166016])","Articles of glass, nes","#99ffff
+","array([ 6.61742513, -2.11817289])"
+342,6506,0,15.201904296875,"array([1358.80712891, 2729.68237305])",Safety headgear,"#99ffff
+","array([ 6.64634554, -2.17117585])"
+343,6801,0,15.09375,"array([2461.75170898, 2846.35253906])","Stone setts, curbstones, flagstones (except slate)","#330000
+","array([ 5.49571507, -1.26875274])"
+344,9505,0,15.60009765625,"array([2807.61010742, 2825.11645508])",Articles for Christmas festivities,"#6e451e
+","array([ 6.40466235, -1.17184338])"
+345,6704,0,15.05126953125,"array([2821.97216797, 2870.65380859])",Complete wigs of synthetic textile materials,"#6e451e
+","array([ 6.39546282, -1.12809478])"
+346,6702,0,15.07861328125,"array([2859.9362793 , 2825.59521484])","Artificial flowers foliage fruit, articles, plastic","#6e451e
+","array([ 6.44533065, -1.12207971])"
+347,9706,0,15.294921875,"array([2479.1784668 , 2766.10058594])",Antiques older than one hundred years,"#9c9a87
+","array([ 5.70201445, -1.4064984 ])"
+348,3920,0,21.8472900390625,"array([2028.89031982, 2445.90429688])",Sheet/film not cellular/reinf polymers of ethylene,"#730049
+","array([ 6.16127136, -1.92281252])"
+349,1107,0,15.509521484375,"array([1959.56384277, 2614.46118164])","Malt, not roasted","#d1ff00
+","array([ 6.23817376, -1.82312172])"
+350,5607,0,15.131103515625,"array([2369.74060059, 2209.51293945])","Twine, cordage, ropes and cables, of jute, bast fibre","#ff0000
+","array([ 6.14263572, -1.73084291])"
+351,5701,0,15.08154296875,"array([1966.88537598, 1869.17541504])","Carpets of wool or fine animal hair, knotted","#6e451e
+","array([ 5.93127554, -2.72315996])"
+352,8604,0,15.000244140625,"array([1568.97180176, 2896.078125  ])",Railway maintenance-of-way service vehicles,"#299fff
+","array([ 6.48856745, -2.53272061])"
+353,8215,0,15.18017578125,"array([2768.48681641, 2745.20849609])",Cutlery sets plated with precious metal,"#33cc00
+","array([ 6.37347142, -1.31530399])"
+354,8405,0,15.032958984375,"array([1652.57617188, 2200.1262207 ])","Producer, water and acetylene gas generators","#299fff
+","array([ 6.35178215, -2.10177631])"
+355,8404,0,15.208251953125,"array([1948.44567871, 2197.96655273])",Auxiliary plant for steam/vapour generating boilers,"#299fff
+","array([ 6.15505048, -2.05627297])"
+356,8463,0,15.210205078125,"array([1811.94152832, 2198.05004883])","Draw-benches for bars, tubes, profiles wire etc","#299fff
+","array([ 6.20659975, -2.08027273])"
+357,6102,0,15.237060546875,"array([2559.62512207, 2446.55883789])","Womens, girls overcoats, etc, of wool or hair, knit","#33cc00
+","array([ 6.1139337 , -1.63965476])"
+358,5509,0,15.599853515625,"array([2581.08679199, 2466.87182617])","Yarn >85% nylon, etc staple fibres, single, not retai","#33cc00
+","array([ 6.17244591, -1.67394898])"
+359,5309,0,15.0255126953125,"array([1783.55767822, 2173.46875   ])","Woven fabric, >85% flax, unbleached or bleached","#299fff
+","array([ 6.27752806, -2.12078328])"
+360,5903,0,16.084716796875,"array([1718.58740234, 2209.01635742])","Fabric impregnated, coated, covered with pvc plastic","#299fff
+","array([ 6.31202478, -2.07217127])"
+361,5401,0,15.020751953125,"array([2718.94665527, 2459.60522461])",Sewing thread of synthetic filaments,"#33cc00
+","array([ 6.0811182 , -1.57193614])"
+362,5806,0,15.295166015625,"array([2759.17492676, 2430.11816406])",Woven pile fabric and narrow chenille fabric,"#33cc00
+","array([ 6.10180248, -1.5690923 ])"
+363,5211,0,15.15283203125,"array([2705.8737793 , 2517.66845703])","Plain weave cotton, <85% +manmade fibre, >200g/m2 unb","#33cc00
+","array([ 6.17912885, -1.55556411])"
+364,5513,0,15.2939453125,"array([2692.54272461, 2568.57531738])","Woven plain >85% polyester+cotton, <170g/m2 unbl/blch","#33cc00
+","array([ 6.21401351, -1.59002817])"
+365,5514,0,15.101318359375,"array([2666.43859863, 2563.63378906])","Woven plain >85% polyester+cotton, >170g/m2 unbl/blch","#33cc00
+","array([ 6.2118991 , -1.57278431])"
+366,5807,0,15.01416015625,"array([2744.00610352, 2503.04443359])","Label, badge, etc, of woven textile not embroidered","#33cc00
+","array([ 6.13688321, -1.53643581])"
+367,8441,0,15.772216796875,"array([1532.01660156, 2306.72290039])","Cutting machines for paper pulp, paper or paperboard","#299fff
+","array([ 6.37099313, -1.99652635])"
+368,8308,0,15.22998046875,"array([1664.2668457 , 2393.85888672])","Hooks, eyes, eyelets, for clothing, footwear, bags et","#299fff
+","array([ 6.24856751, -2.09740919])"
+369,7211,0,15.888427734375,"array([1840.12915039, 2523.73095703])","Hot box roll iron or non-alloy steel, flat, w 150-600mm, t >4mm, myp>35","#299fff
+","array([ 6.25543732, -1.9768841 ])"
+370,6914,0,15.02880859375,"array([2490.35083008, 2861.91430664])",Articles of porcelain or china nes,"#330000
+","array([ 5.49845842, -1.32226725])"
+371,7304,0,21.489501953125,"array([1588.24938965, 2270.77954102])","Pipes, line, iron or steel, for oil or gas pipelines","#299fff
+","array([ 6.37755961, -1.95273645])"
+372,3914,0,15.04296875,"array([1544.42468262, 2279.82104492])",Ion exchangers based on polymers in primary forms,"#299fff
+","array([ 6.43609508, -1.95818767])"
+373,3905,0,15.61181640625,"array([1126.67346191, 2261.61621094])","Polyvinyl acetate, in aqueous dispersion, primary for","#9c219c
+","array([ 6.49509469, -1.69540757])"
+374,8462,0,16.647216796875,"array([1797.55932617, 2299.2734375 ])","Machine tools to forge, stamp, hammer or press metals","#299fff
+","array([ 6.24297615, -2.00404162])"
+375,7322,0,15.457763671875,"array([1849.0715332 , 2436.76757812])","Radiators and parts thereof, cast iron","#299fff
+","array([ 6.22707324, -1.98110628])"
+376,8503,0,17.824951171875,"array([1919.30273438, 2268.20654297])",Parts for electric motors and generators,"#299fff
+","array([ 6.21598503, -1.95011336])"
+377,8483,0,22.047607421875,"array([1599.97705078, 2298.97509766])","Transmission shafts and cranks, cam and crank shafts","#299fff
+","array([ 6.3286137 , -1.95693632])"
+378,8708,0,52.724609375,"array([1818.89538574, 2399.51416016])",Bumpers and parts thereof for motor vehicles,"#299fff
+","array([ 6.30065008, -1.95442049])"
+379,8547,0,15.501708984375,"array([1634.10400391, 2267.38867188])",Electrical insulating fittings of ceramics,"#299fff
+","array([ 6.32469713, -1.99730408])"
+380,3006,0,16.51708984375,"array([1365.35961914, 2269.8828125 ])","Suture materials, sterile surgical and dental goods","#9c219c
+","array([ 6.44977753, -1.88187445])"
+381,3919,0,17.0863037109375,"array([1389.74517822, 2200.65405273])","Self-adhesive plastic, rolls <20cm wide","#9c219c
+","array([ 6.49788269, -1.8995901 ])"
+382,4817,0,15.03076171875,"array([2110.94482422, 2430.99291992])",Envelopes of paper,"#ff0000
+","array([ 6.12310081, -1.88861032])"
+383,9033,0,15.196044921875,"array([1708.08459473, 2255.14672852])",Parts/accessories nes for optical/electric instrument,"#299fff
+","array([ 6.36135504, -1.93841972])"
+384,9028,0,15.60693359375,"array([2076.40405273, 2248.49267578])",Gas supply/production/calibration meters,"#299fff
+","array([ 6.08341397, -1.93302422])"
+385,8526,0,17.4873046875,"array([1274.10009766, 2477.18481445])",Radar apparatus,"#99ffff
+","array([ 6.76845284, -1.96807388])"
+386,8527,0,17.77294921875,"array([1229.97180176, 2767.95483398])","Radio receivers, portable, with sound reproduce/recor","#99ffff
+","array([ 6.80961238, -1.91533754])"
+387,9002,0,16.2392578125,"array([1196.18103027, 2693.47314453])","Objective lenses for cameras, projectors, etc","#99ffff
+","array([ 6.81753086, -2.02029408])"
+388,8472,0,15.779296875,"array([1267.74633789, 2666.89794922])",Office duplicating machines,"#99ffff
+","array([ 6.73683894, -2.03846659])"
+389,9001,0,18.375,"array([1205.7611084 , 2491.96435547])","Optical fibres, except for telecommunications","#99ffff
+","array([ 6.79605142, -2.04776439])"
+390,8001,0,15.62451171875,"array([1170.48217773, 1919.89892578])",Tin not alloyed unwrought,"#9c9a87
+","array([ 6.57798395, -1.54200764])"
+391,8502,0,19.06591796875,"array([1655.42883301, 2244.8972168 ])","Generating sets, diesel, output < 75 kVA","#299fff
+","array([ 6.31938672, -2.04310946])"
+392,8482,0,19.47021484375,"array([1725.9432373 , 2349.79956055])","Bearings, ball","#299fff
+","array([ 6.32283752, -1.93122524])"
+393,6207,0,15.091552734375,"array([2624.95739746, 2479.88647461])","Mens, boys underpants or briefs, of cotton, not knit","#33cc00
+","array([ 6.06243007, -1.63476171])"
+394,2924,0,15.9287109375,"array([1137.24169922, 1988.74108887])","Acyclic amides, derivatives, salts thereof","#9c219c
+","array([ 6.58180773, -1.66849631])"
+395,808,0,16.1357421875,"array([2584.48852539, 2823.49475098])","Apples, fresh","#d1ff00
+","array([ 5.6803819, -1.4853513])"
+396,709,0,16.354248046875,"array([2452.15002441, 2479.33056641])","Globe artichokes, fresh or chilled","#bf8845
+","array([ 5.9652618 , -1.76340086])"
+397,703,0,15.408447265625,"array([2561.06652832, 2747.97924805])","Onions and shallots, fresh or chilled","#d1ff00
+","array([ 5.79168839, -1.50300179])"
+398,712,0,15.14990234375,"array([2590.02270508, 2724.17382812])","Potatoes, dried, not further prepared","#d1ff00
+","array([ 5.89011687, -1.57067686])"
+399,2008,0,16.428955078125,"array([2473.92590332, 2463.9753418 ])",Ground-nuts otherwise prepared or preserved,"#bf8845
+","array([ 6.01434583, -1.72065971])"
+400,2202,0,16.956298828125,"array([2393.05603027, 2387.99938965])","Beverage waters, sweetened or flavoured","#bf8845
+","array([ 6.06497025, -1.81061609])"
+401,1905,0,18.3271484375,"array([2404.13208008, 2431.47949219])",Crispbread,"#bf8845
+","array([ 6.03575951, -1.81086804])"
+402,2005,0,16.125,"array([2462.69824219, 2435.73596191])","Homogenized vegetable preparations, not frozen/vinega","#bf8845
+","array([ 6.04222314, -1.73754671])"
+403,8445,0,15.4404296875,"array([1650.5892334 , 2789.59326172])",Textile fibre carding machines,"#299fff
+","array([ 6.44012903, -2.37849646])"
+404,9006,0,15.46875,"array([1313.32763672, 2588.55810547])",Cameras for preparing printing plates or cylinders,"#99ffff
+","array([ 6.74578353, -1.94124333])"
+405,8456,0,15.60302734375,"array([1392.90209961, 2439.78198242])","Laser, light and photon beam process machine tools","#9c219c
+","array([ 6.79147098, -1.94691856])"
+406,8457,0,16.311279296875,"array([1614.0859375 , 2789.03930664])","Machining centres, for working metal","#299fff
+","array([ 6.44995715, -2.33048586])"
+407,8523,0,19.11962890625,"array([1248.75891113, 2557.51879883])","Unrecorded magnetic tapes, width < 4 mm","#99ffff
+","array([ 6.79650123, -2.02219591])"
+408,8471,0,52.763916015625,"array([1122.02392578, 2607.70263672])",Analogue or hybrid computers,"#99ffff
+","array([ 6.82392584, -1.9835137 ])"
+409,8543,0,19.041748046875,"array([1292.00622559, 2520.00146484])",Particle accelerators,"#99ffff
+","array([ 6.72794149, -1.99255777])"
+410,8533,0,16.084228515625,"array([1273.11791992, 2576.63647461])","Electrical resistors, fixed carbon","#99ffff
+","array([ 6.72537924, -2.00702872])"
+411,1212,0,15.0302734375,"array([2859.83251953, 2707.27709961])","Locust beans, locust seeds","#d1ff00
+","array([ 6.02242593, -1.16176227])"
+412,5201,0,16.643310546875,"array([2842.69616699, 2599.17504883])","Cotton, not carded or combed","#33cc00
+","array([ 6.0661009 , -1.26527174])"
+413,1201,0,20.3798828125,"array([1487.64221191, 2605.93652344])",Soya beans,"#d1ff00
+","array([ 6.41310575, -1.73285248])"
+414,2304,0,18.098876953125,"array([1485.97521973, 2574.68310547])",Soya-bean oil-cake and other solid residues,"#d1ff00
+","array([ 6.39778397, -1.78533347])"
+415,8517,0,42.854736328125,"array([1146.09484863, 2541.33862305])",Telephone sets,"#99ffff
+","array([ 6.79693422, -1.97885024])"
+416,9108,0,15.014892578125,"array([1391.82653809, 2704.90283203])","Assembled battery watch movement, mechanical display","#0576a6
+","array([ 6.90391836, -1.98922662])"
+417,1103,0,15.0244140625,"array([2146.31201172, 2602.41650391])",Wheat meal,"#730049
+","array([ 6.02950191, -1.9203191 ])"
+418,1104,0,15.000244140625,"array([2411.44885254, 2536.29492188])","Barley, rolled or flaked grains","#bf8845
+","array([ 5.93955633, -1.84129719])"
+419,7212,0,15.57177734375,"array([1797.85900879, 2571.10986328])","Flat rolled iron or non-alloy steel, width <600mm, plated with tin","#299fff
+","array([ 6.21640859, -2.05710394])"
+420,3818,0,17.006103515625,"array([1118.65576172, 2737.10400391])",Chemical element/compound wafers doped for electronic,"#99ffff
+","array([ 6.86143809, -2.06834407])"
+421,3811,0,16.4051513671875,"array([1128.11334229, 2095.97351074])",Anti-knock preparations based on lead compounds,"#9c219c
+","array([ 6.59636776, -1.72731956])"
+422,4814,0,15.107177734375,"array([1057.3359375 , 2029.99243164])",Wallpaper Ingrain,"#9c219c
+","array([ 6.63871856, -1.67379817])"
+423,3809,0,15.4071044921875,"array([1850.4208374 , 2625.03857422])","Finishing agents & dye carriers, amylaceous","#299fff
+","array([ 6.27785232, -1.80661508])"
+424,3810,0,15.078857421875,"array([1706.03234863, 2085.48693848])","Metal pickling preps, solder and brazing flux, etc.","#299fff
+","array([ 6.29694671, -2.14635769])"
+425,9005,0,15.0185546875,"array([1168.69091797, 2793.22485352])",Binoculars,"#99ffff
+","array([ 6.77241263, -2.08689773])"
+426,8101,0,15.002685546875,"array([1152.6315918 , 2820.11254883])","Powders, tungsten (wolfram)","#99ffff
+","array([ 6.80716378, -2.13658969])"
+427,7607,0,16.56103515625,"array([1915.47290039, 2557.74462891])","Foil, aluminium, not backed, rolled but nfw, < 0.2mm","#299fff
+","array([ 6.28261119, -1.85312808])"
+428,8606,0,15.608154296875,"array([1891.45214844, 2669.14111328])",Railway tank cars,"#299fff
+","array([ 6.09085814, -2.07172239])"
+429,7601,0,23.620361328125,"array([1882.67956543, 2733.16479492])","Aluminium unwrought, not alloyed","#299fff
+","array([ 6.06411331, -2.13712466])"
+430,7413,0,15.101318359375,"array([1747.20056152, 2823.48608398])","Stranded copper wire/cable/plaits/etc, uninsulated","#299fff
+","array([ 6.52601142, -2.18723053])"
+431,8478,0,15.147705078125,"array([1573.65283203, 2814.31762695])",Machinery for preparing or making up tobacco,"#299fff
+","array([ 6.58639156, -2.16409629])"
+432,7409,0,16.4871826171875,"array([1441.75006104, 2453.98413086])","Plate, sheet, strip, refined copper, coil, t > 0.15mm","#299fff
+","array([ 6.57185081, -2.08854035])"
+433,7407,0,15.952880859375,"array([2252.08288574, 1920.69604492])","Bars, rods & profiles of refined copper","#330000
+","array([ 5.72697312, -2.39221173])"
+434,7402,0,16.016357421875,"array([2246.59875488, 1853.86730957])","Unrefined copper, copper anodes, electrolytic refinin","#330000
+","array([ 5.63668567, -2.53927054])"
+435,1519,0,15.8994140625,"array([1059.58532715, 2313.94262695])",Stearic acid,"#9c219c
+","array([ 6.77615603, -1.60349969])"
+436,1520,0,15.053955078125,"array([1070.0513916 , 2275.02441406])","Glycerol (glycerine), crude and glycerol waters & lye","#9c219c
+","array([ 6.73844374, -1.63835316])"
+437,3802,0,15.104736328125,"array([1107.95202637, 2291.24169922])",Activated carbon,"#9c219c
+","array([ 6.65115443, -1.72999612])"
+438,3806,0,15.060546875,"array([1047.21716309, 2265.83081055])",Rosin and resin acids,"#9c219c
+","array([ 6.80773309, -1.56311313])"
+439,2703,0,15.003173828125,"array([1529.64111328, 2078.98291016])",Peat (including peat litter),"#d1ff00
+","array([ 6.51412781, -2.2666956 ])"
+440,2704,0,17.00048828125,"array([1754.1986084 , 2694.59655762])","Coke, semi-coke of coal, lignite, peat & retort carbo","#330000
+","array([ 6.26169862, -2.18635615])"
+441,1518,0,15.148193359375,"array([1386.20959473, 2870.50366211])","Processed animal, vegetable oils, industrial preps ne","#0576a6
+","array([ 7.1018698 , -2.20474311])"
+442,8714,0,17.160888671875,"array([1374.91809082, 2820.51928711])",Motorcycle saddles,"#0576a6
+","array([ 7.09782256, -2.16674858])"
+443,2620,0,15.4208984375,"array([1913.39404297, 2729.08984375])",Ash or residues containing hard zinc spelter,"#9c9a87
+","array([ 6.08045582, -2.10423852])"
+444,7218,0,15.316162109375,"array([1450.97583008, 2157.51416016])","Ingots and other primary forms, stainless steel","#299fff
+","array([ 6.63204212, -1.71296173])"
+445,2701,0,32.0740966796875,"array([1817.72528076, 2808.66357422])","Anthracite, not agglomerated","#330000
+","array([ 6.25384969, -2.246668  ])"
+446,7606,0,19.1829833984375,"array([1909.7567749 , 2670.44213867])","Pure aluminium rectangular plate/sheet/strip, t >0.2m","#299fff
+","array([ 6.12731508, -2.05414836])"
+447,2613,0,16.27783203125,"array([1106.0670166 , 2388.14160156])","Molybdenum concentrates, roasted","#330000
+","array([ 6.90209525, -1.79399885])"
+448,2614,0,15.0819091796875,"array([1462.27191162, 2133.57495117])",Titanium ores and concentrates,"#330000
+","array([ 6.68035155, -1.63024343])"
+449,2615,0,15.075927734375,"array([1490.50366211, 2109.73876953])",Zirconium ores and concentrates,"#330000
+","array([ 6.71869627, -1.58934561])"
+450,2844,0,17.791015625,"array([1147.5880127 , 2398.62915039])","Natural uranium, its compounds, mixtures","#330000
+","array([ 6.85549126, -1.81429597])"
+451,4013,0,15.0245361328125,"array([2052.10369873, 2080.18432617])",Inner tubes of rubber for motor vehicles,"#9c9a87
+","array([ 6.03125243, -2.31010994])"
+452,2937,0,16.439697265625,"array([1299.64501953, 2115.89147949])","Pituitary anterior hormones and derivatives, in bulk","#9c219c
+","array([ 6.57471593, -1.82995457])"
+453,9021,0,20.481201171875,"array([1277.5637207 , 2137.58447266])",Artificial joints,"#9c219c
+","array([ 6.52794112, -1.82710624])"
+454,9027,0,19.103271484375,"array([1336.43969727, 2205.97509766])",Gas/smoke analysis apparatus,"#9c219c
+","array([ 6.52113953, -1.8945932 ])"
+455,4012,0,15.177001953125,"array([2210.44445801, 2285.44995117])",Retreaded tyres,"#299fff
+","array([ 6.06128339, -1.92943905])"
+456,8442,0,15.2552490234375,"array([1304.49554443, 2454.51708984])",Photo-typesetting and composing machines,"#99ffff
+","array([ 6.53813227, -1.95460797])"
+457,3002,0,24.2490234375,"array([1287.09692383, 2301.06152344])",Antisera and other blood fractions,"#9c219c
+","array([ 6.49416165, -1.88064298])"
+458,4911,0,16.674072265625,"array([2037.53015137, 2414.63964844])","Trade advertising material, catalogues etc.","#ff0000
+","array([ 6.19743457, -1.88683883])"
+459,3003,0,16.3175048828125,"array([2006.53765869, 2478.69287109])","Penicillins or streptomycins and derivatives, in bulk","#730049
+","array([ 6.19909923, -1.86702789])"
+460,3307,0,16.3050537109375,"array([1982.60064697, 2446.70288086])","Pre-shave, shaving and after shaving preparations","#730049
+","array([ 6.19374154, -1.95884345])"
+461,3004,0,52.8056640625,"array([1969.56079102, 2505.359375  ])","Penicillins and streptomycins, derivs, in dosage","#730049
+","array([ 6.23566121, -1.87890306])"
+462,7323,0,16.1494140625,"array([2745.92041016, 2703.75927734])","Iron or steel wool, pot scourers, etc, iron or steel","#33cc00
+","array([ 6.3407124 , -1.42648406])"
+463,5601,0,15.223388671875,"array([2347.45495605, 2156.41772461])","Sanitary towels, diapers and similar articles","#299fff
+","array([ 5.95612968, -1.93513416])"
+464,6913,0,15.100341796875,"array([2027.97094727, 1992.1751709 ])",Statuettes & ornamental articles of porcelain or chin,"#9c9a87
+","array([ 5.9224559 , -2.58394746])"
+465,8712,0,15.916015625,"array([2069.26074219, 2013.53131104])","Bicycles, other cycles, not motorized","#299fff
+","array([ 5.96437311, -2.4548712 ])"
+466,5702,0,15.394287109375,"array([2431.79699707, 2824.8182373 ])","Hand made rugs including Kelem,Schumacks,Karamanie,et","#9c9a87
+","array([ 5.52162393, -1.21629636])"
+467,6908,0,16.621826171875,"array([2457.8963623, 2821.03125  ])","Glazed ceramic mosaic tiles, cubes & similar <7cm wid","#330000
+","array([ 5.53080874, -1.25826317])"
+468,8519,0,16.119140625,"array([1150.07324219, 2672.20727539])",Coin or disc-operated record-players,"#99ffff
+","array([ 6.88273315, -1.96152365])"
+469,8705,0,17.309814453125,"array([2137.0880127 , 2244.86450195])",Mobile cranes,"#299fff
+","array([ 6.05509472, -1.98887686])"
+470,8470,0,15.6142578125,"array([1232.92126465, 2833.70153809])",Electronic calculators operable with internal power,"#99ffff
+","array([ 6.84733003, -1.87308188])"
+471,8509,0,17.117431640625,"array([1082.0760498 , 2632.42480469])",Domestic vacuum cleaners,"#99ffff
+","array([ 6.87980749, -2.00825091])"
+472,5801,0,15.314208984375,"array([2753.94470215, 2787.2512207 ])","Woven pile fabric of wool or fine animal hair, w >30c","#33cc00
+","array([ 6.36503667, -1.27216576])"
+473,8508,0,16.78955078125,"array([1628.45227051, 2165.48632812])","Drills, hand-held, with self-contained electric motor","#299fff
+","array([ 6.34925132, -2.13013633])"
+474,9011,0,15.111572265625,"array([1687.10913086, 2852.48632812])",Stereoscopic microscopes,"#299fff
+","array([ 6.43772352, -2.46077212])"
+475,3907,0,22.1787109375,"array([1306.32165527, 2785.22607422])","Polyacetals, in primary forms","#99ffff
+","array([ 6.80862067, -1.84573322])"
+476,8452,0,15.509765625,"array([1776.73498535, 2195.63354492])",Household type sewing machines,"#299fff
+","array([ 6.36345302, -1.83587133])"
+477,8460,0,15.572265625,"array([1628.74255371, 2715.8918457 ])","Num controlled surface grinders, accurate to 0.01mm","#299fff
+","array([ 6.36767358, -2.16024338])"
+478,3903,0,18.43115234375,"array([1309.80065918, 2734.46606445])","Polystyrene, expansible in primary forms","#99ffff
+","array([ 6.76140808, -1.87586515])"
+479,8428,0,18.72119140625,"array([1894.91711426, 2446.95629883])",Lifts and skip hoists,"#299fff
+","array([ 6.24888144, -1.92306232])"
+480,9022,0,17.781494140625,"array([1239.28967285, 2235.59033203])",Medical X-ray apparatus,"#9c219c
+","array([ 6.62747586, -1.87085402])"
+481,7008,0,15.0367431640625,"array([1911.83953857, 2469.76806641])",Multiple-walled insulating units of glass,"#299fff
+","array([ 6.21601281, -1.9206704 ])"
+482,6114,0,15.486083984375,"array([2669.45422363, 2437.38989258])","Garments nes, of wool or fine animal hair, knit","#33cc00
+","array([ 6.08548055, -1.63616907])"
+483,8544,0,29.485595703125,"array([2488.06140137, 2422.69226074])",Insulated winding wire of copper,"#ff0000
+","array([ 6.09490462, -1.74170896])"
+484,9403,0,26.191650390625,"array([2310.63024902, 2423.34423828])","Office furniture, metal, nes","#ff0000
+","array([ 6.14650743, -1.81816352])"
+485,2932,0,15.88818359375,"array([1200.52392578, 2106.18139648])",Tetrahydrofuran,"#9c219c
+","array([ 6.51651153, -1.78714793])"
+486,2104,0,15.2685546875,"array([2375.06835938, 2478.17773438])",Soups and broths and preparations thereof,"#bf8845
+","array([ 6.05274794, -1.81388803])"
+487,2007,0,15.185302734375,"array([2403.70373535, 2461.48242188])","Homogenised jams, jellies, etc","#bf8845
+","array([ 6.0554918 , -1.79274634])"
+488,1904,0,15.568603515625,"array([2208.07678223, 2508.37280273])","Cereal foods obtained by swelling, roasting of cereal","#730049
+","array([ 6.029522  , -1.88170796])"
+489,7604,0,17.11669921875,"array([2331.96606445, 2457.89746094])","Bars, rods and profiles, aluminium, not alloyed","#ff0000
+","array([ 6.08434404, -1.81458079])"
+490,3917,0,17.81201171875,"array([2139.00708008, 2442.00317383])","Sausage casings of hardened protein, cellulose","#730049
+","array([ 6.09916338, -1.84692993])"
+491,2009,0,17.18994140625,"array([2422.24780273, 2474.5682373 ])","Orange juice, frozen, not fermented or spirited","#bf8845
+","array([ 6.02172275, -1.77592255])"
+492,7010,0,16.0615234375,"array([2375.20336914, 2421.46362305])",Ampoules of glass for conveyance or packing,"#ff0000
+","array([ 6.08140572, -1.76991787])"
+493,3923,0,21.2080078125,"array([2433.33349609, 2444.61254883])","Boxes, cases, crates etc. of plastic","#ff0000
+","array([ 6.02469066, -1.74926569])"
+494,4820,0,15.553955078125,"array([2737.57434082, 2310.79907227])","Registers, account books, note books, diaries etc","#33cc00
+","array([ 6.05940938, -1.60193272])"
+495,2923,0,15.110595703125,"array([1480.70544434, 2422.12695312])","Choline, salts","#9c219c
+","array([ 6.38751323, -1.86736489])"
+496,7505,0,15.258544921875,"array([1417.13549805, 2296.12402344])","Bars, rods and profiles, nickel, not alloyed","#299fff
+","array([ 6.56772014, -1.94115286])"
+497,8484,0,15.3798828125,"array([1455.66333008, 2571.22119141])","Gaskets of metal sheeting, including sandwich type","#299fff
+","array([ 6.5580145 , -1.99299634])"
+498,7324,0,15.274658203125,"array([1543.01538086, 2679.16210938])","Sinks and wash basins, stainless steel","#299fff
+","array([ 6.48493291, -2.04718677])"
+499,8422,0,18.84228515625,"array([1540.07910156, 2534.22705078])",Dish washing machines (domestic),"#299fff
+","array([ 6.45100224, -2.03122599])"
+500,8311,0,15.387451171875,"array([2007.12597656, 2289.64282227])","Electrodes, coated, of base metal, for arc welding","#299fff
+","array([ 6.2204046 , -1.85893148])"
+501,7419,0,15.35791015625,"array([1683.85888672, 2289.20336914])",Chain and parts thereof of copper,"#299fff
+","array([ 6.28101068, -2.04403549])"
+502,7318,0,19.609130859375,"array([1703.35400391, 2449.29150391])","Screws, coach, iron or steel","#299fff
+","array([ 6.35116057, -2.02398998])"
+503,8208,0,15.2294921875,"array([1614.90710449, 2381.16967773])",Blades for metal working machines,"#299fff
+","array([ 6.35696135, -1.96690642])"
+504,8514,0,15.6929931640625,"array([1580.78704834, 2460.77929688])",Industrial electric resistance heated furnaces & oven,"#299fff
+","array([ 6.38693234, -1.97076739])"
+505,8515,0,16.4560546875,"array([1549.99047852, 2370.14746094])",Electric soldering irons and guns,"#299fff
+","array([ 6.3728865 , -2.01512555])"
+506,8426,0,17.880126953125,"array([1610.54064941, 2331.25073242])",Gantry and overhead travelling cranes on fixed suppor,"#299fff
+","array([ 6.39124078, -2.0245437 ])"
+507,8412,0,17.08349609375,"array([1619.23083496, 2460.11914062])",Reaction engines other than turbo jets,"#299fff
+","array([ 6.3435005, -1.934423 ])"
+508,8512,0,17.218505859375,"array([1729.05322266, 2459.01586914])",Lighting/signalling equipment as used on bicycles,"#299fff
+","array([ 6.31517911, -1.98383592])"
+509,8538,0,19.155029296875,"array([1773.33032227, 2295.76635742])","Elictrical boards, panels, etc, not equipped","#299fff
+","array([ 6.29812412, -1.94346114])"
+510,8704,0,34.072021484375,"array([1780.9041748 , 2441.18359375])",Dump trucks designed for off-highway use,"#299fff
+","array([ 6.3063899 , -1.91415198])"
+511,3823,0,20.84814453125,"array([2046.44506836, 2544.75512695])",Prepared binders for foundry moulds or cores,"#730049
+","array([ 6.08885466, -1.98615618])"
+512,4011,0,24.588623046875,"array([2150.31188965, 2212.09643555])",Pneumatic tyres new of rubber for motor cars,"#299fff
+","array([ 6.11881091, -2.00002402])"
+513,8504,0,26.630126953125,"array([2022.69641113, 2266.2746582 ])",Ballasts for discharge lamps or tubes,"#299fff
+","array([ 6.16063221, -1.9500737 ])"
+514,7226,0,15.5234375,"array([1520.18725586, 2412.93188477])","Flat rolled silicon-electrical steel, <600mm wide","#299fff
+","array([ 6.4704332 , -1.99858298])"
+515,7229,0,15.17626953125,"array([1554.3026123 , 2317.79541016])",Wire of high speed steel,"#299fff
+","array([ 6.42640095, -2.04230858])"
+516,7302,0,15.62109375,"array([1667.53186035, 2583.50512695])","Railway/tramway rails, iron or steel","#299fff
+","array([ 6.36784469, -2.11690266])"
+517,8407,0,20.77197265625,"array([1533.70117188, 2442.33129883])","Aircraft engines, spark-ignition","#299fff
+","array([ 6.48521726, -1.97909974])"
+518,8425,0,15.869140625,"array([1831.93786621, 2315.12792969])",Electric hoists (except skip and vehicle hoists),"#299fff
+","array([ 6.22151554, -2.00494791])"
+519,8603,0,15.465576171875,"array([1624.81518555, 2616.58129883])","Self-propelled railway cars, external electric power","#299fff
+","array([ 6.36411345, -2.0810926 ])"
+520,8408,0,22.562744140625,"array([1648.83068848, 2484.77807617])","Marine propulsion engines, diesel","#299fff
+","array([ 6.421791  , -2.01494825])"
+521,7608,0,15.205322265625,"array([2135.65246582, 2343.08911133])","Tubes and pipe, aluminium, not alloyed","#299fff
+","array([ 6.19256705, -1.81215649])"
+522,2303,0,15.352783203125,"array([2798.83435059, 2681.73168945])",Residues of starch manufacture and similar residues,"#33cc00
+","array([ 6.40644469, -1.34781483])"
+523,2208,0,18.3419189453125,"array([1938.33966064, 2560.00024414])",Compound alcoholic preps for beverage manufacture,"#730049
+","array([ 6.26284545, -1.78532195])"
+524,2306,0,15.52685546875,"array([2277.80883789, 2056.92236328])",Cotton seed oil-cake and other solid residues,"#330000
+","array([ 5.84376594, -1.52643175])"
+525,8609,0,15.377197265625,"array([2140.32019043, 2570.05053711])",Cargo containers designed for carriage,"#ff0000
+","array([ 6.04515903, -1.94690612])"
+526,7801,0,15.730224609375,"array([2240.35583496, 2139.92004395])",Lead refined unwrought,"#330000
+","array([ 5.89633829, -1.62973798])"
+527,3102,0,19.405029296875,"array([2302.03820801, 2001.83764648])","Urea, including aqueous solution in packs >10 kg","#330000
+","array([ 5.80239509, -1.4277824 ])"
+528,3915,0,15.84521484375,"array([2238.14550781, 2591.58789062])",Polyethylene waste or scrap,"#730049
+","array([ 5.97308011, -1.89446935])"
+529,3105,0,18.94189453125,"array([2226.5859375 , 2569.42138672])",Fertilizer mixes in tablets etc or in packs <10 kg,"#730049
+","array([ 5.9666089, -1.8701033])"
+530,2711,0,54.154541015625,"array([2441.73571777, 2015.83123779])","Natural gas, liquefied","#330000
+","array([ 5.71973806, -1.3027708 ])"
+531,2503,0,16.400146484375,"array([2521.22595215, 2006.02709961])","Sulphur, crude or unrefined","#330000
+","array([ 5.68951065, -1.26896207])"
+532,4420,0,15.072265625,"array([2779.35375977, 2339.53173828])",Statuettes and other ornaments of wood,"#33cc00
+","array([ 6.05548823, -1.48481958])"
+533,4702,0,15.2366943359375,"array([1025.50384521, 2206.78173828])","Chemical wood pulp, dissolving grades","#9c219c
+","array([ 6.90654643, -1.49032207])"
+534,4803,0,15.30126953125,"array([2345.35009766, 2241.57763672])","Paper, household, sanitary, width > 36 centimetres","#ff0000
+","array([ 5.97784561, -1.82157288])"
+535,4806,0,15.0732421875,"array([1469.31896973, 2387.44970703])","Paper, vegetable parchment","#9c9a87
+","array([ 6.62204603, -1.90701339])"
+536,4802,0,18.991455078125,"array([1853.61230469, 2163.3815918 ])","Paper, hand-made, uncoated","#330000
+","array([ 6.3312261 , -1.83986231])"
+537,4804,0,16.744873046875,"array([1860.98339844, 2095.97314453])","Paper, Kraftliner, unbleached, uncoated","#330000
+","array([ 6.34953603, -1.77380033])"
+538,3703,0,15.114501953125,"array([1213.40686035, 2270.96606445])","Unexposed photographic paper,textile roll > 610mm wid","#9c219c
+","array([ 6.67784178, -1.86044224])"
+539,7326,0,21.4970703125,"array([2009.84240723, 2357.35571289])","Balls, iron/steel, forged/stamped for grinding mills","#299fff
+","array([ 6.18612913, -1.8935335 ])"
+540,7309,0,15.462158203125,"array([2203.0045166 , 2375.39941406])","Reservoirs/tanks/vats/etc, iron/steel capacity >300l","#ff0000
+","array([ 6.10536439, -1.82823961])"
+541,8440,0,15.148193359375,"array([1274.20788574, 2436.72583008])",Book-binding machinery including book-sewing machines,"#99ffff
+","array([ 6.59600739, -1.96984   ])"
+542,4821,0,15.52880859375,"array([2322.63916016, 2498.26623535])","Paper labels of all kinds, printed","#ff0000
+","array([ 6.04522616, -1.82518985])"
+543,2106,0,18.88916015625,"array([2297.53759766, 2488.76660156])",Protein concentrates and textured protein substances,"#730049
+","array([ 6.05499651, -1.84006071])"
+544,2102,0,15.0908203125,"array([2239.95263672, 2477.56811523])","Yeasts, active","#730049
+","array([ 5.99694637, -1.90825275])"
+545,7616,0,16.822021484375,"array([2126.5333252 , 2376.95166016])","Aluminium nails, tacks, staples, bolts, nuts etc,","#299fff
+","array([ 6.15185582, -1.86625108])"
+546,7610,0,16.1826171875,"array([2189.88525391, 2465.92333984])","Aluminium Doors, windows, frames and thresholds","#ff0000
+","array([ 6.13947693, -1.8600814 ])"
+547,4418,0,16.88330078125,"array([2269.52099609, 2322.67822266])","Windows, French-windows, frames, of wood","#ff0000
+","array([ 6.08957103, -1.80498532])"
+548,4411,0,16.318359375,"array([2253.5559082 , 2392.40380859])",Fibreboard >0.8 g/cm2 not worked or surface covered,"#ff0000
+","array([ 6.0882377 , -1.87830838])"
+549,5911,0,15.494384765625,"array([1962.24829102, 2288.79052734])","Textile fabric for card clothing, technical use","#299fff
+","array([ 6.25295911, -1.90647783])"
+550,8707,0,16.4541015625,"array([1672.58935547, 2466.67089844])",Bodies for passenger carrying vehicles,"#299fff
+","array([ 6.29835771, -2.04052474])"
+551,2403,0,15.303955078125,"array([2403.81262207, 2651.46435547])",Cigarette or pipe tobacco and tobacco substitute mixe,"#bf8845
+","array([ 5.8647518, -1.9078937])"
+552,402,0,17.677490234375,"array([2395.73425293, 2582.66394043])",Milk powder < 1.5% fat,"#bf8845
+","array([ 5.92558537, -1.8942038 ])"
+553,3507,0,15.41357421875,"array([2158.1472168 , 2724.01794434])",Rennet and concentrates thereof,"#d1ff00
+","array([ 5.89485838, -2.02662201])"
+554,405,0,15.7635498046875,"array([2051.63800049, 2685.10083008])",Butter and other fats and oils derived from milk,"#d1ff00
+","array([ 6.01772618, -2.0216852 ])"
+555,904,0,15.177734375,"array([2087.3659668 , 2902.01037598])","Pepper of the genus Piper, whole","#d1ff00
+","array([ 5.38660347, -2.0772438 ])"
+556,306,0,17.33056640625,"array([2106.99975586, 2883.61889648])","Rock lobster and other sea crawfish, frozen","#d1ff00
+","array([ 5.45289605, -2.06422501])"
+557,2821,0,15.051513671875,"array([1640.74145508, 2940.85119629])",Iron oxides and hydroxides,"#9c9a87
+","array([ 6.54316722, -2.45530795])"
+558,9504,0,21.87255859375,"array([1627.20617676, 2865.40380859])",Video games used with a television receiver,"#9c9a87
+","array([ 6.50889865, -2.40781814])"
+559,2905,0,19.879150390625,"array([2400.92272949, 1953.59509277])",Methyl alcohol,"#330000
+","array([ 5.75038032, -1.27995182])"
+560,2815,0,15.781982421875,"array([1830.95617676, 2190.74829102])",Sodium hydroxide (caustic soda) solid,"#299fff
+","array([ 6.18203294, -2.07283992])"
+561,2811,0,15.4246826171875,"array([1591.10162354, 2756.46142578])",Hydrogen fluoride (hydrofluoric acid),"#9c9a87
+","array([ 6.20790644, -2.2496607 ])"
+562,4901,0,17.80859375,"array([1576.98522949, 2698.28686523])","Brochures, leaflets and similar, in single sheets","#9c9a87
+","array([ 6.22480182, -2.18703943])"
+563,7901,0,16.42578125,"array([2189.50927734, 1852.36846924])","Zinc, not alloyed, unwrought, >99% pure","#330000
+","array([ 5.63078439, -2.50520274])"
+564,2835,0,15.629150390625,"array([2157.18225098, 1825.61584473])",Phosphinates and phosphonates,"#6e451e
+","array([ 5.57411055, -2.5199065 ])"
+565,8112,0,15.124755859375,"array([1746.65905762, 2140.25622559])","Beryllium, unwrought, waste or scrap/powders","#330000
+","array([ 6.32782331, -2.20568812])"
+566,2807,0,15.16015625,"array([2183.23413086, 1898.36914062])","Sulphuric acid, oleum","#330000
+","array([ 5.69398874, -2.4459207 ])"
+567,7101,0,15.080810546875,"array([2863.22473145, 2785.24023438])","Pearls natural, not permanently mounted or set","#9c9a87
+","array([ 6.47354395, -1.14435366])"
+568,7102,0,30.241943359375,"array([2928.51037598, 2499.89440918])","Diamonds, unsorted","#330000
+","array([ 6.14292731, -1.16564532])"
+569,7018,0,15.13134765625,"array([1139.44128418, 2479.09912109])","Ornamental glass beads, pearls, stones, worked items","#9c9a87
+","array([ 6.95590419, -2.19316411])"
+570,8513,0,15.17822265625,"array([1164.64404297, 2469.33032227])",Portable battery and magneto-electric lamps,"#99ffff
+","array([ 6.92159991, -2.16031252])"
+571,6911,0,15.419677734375,"array([2074.5958252 , 2058.10900879])",Tableware and kitchenware of porcelain or china,"#299fff
+","array([ 5.99861727, -2.35256742])"
+572,7004,0,15.182861328125,"array([1408.30517578, 2477.24023438])","Drawn glass sheet coloured, absorbing, reflect, opaqu","#9c219c
+","array([ 6.84377747, -1.94551229])"
+573,6903,0,15.152099609375,"array([1438.62207031, 2720.85986328])","Refractory ceramic articles, >50% carbon","#299fff
+","array([ 6.59617969, -2.05249663])"
+574,6907,0,15.417724609375,"array([1548.39697266, 2766.63232422])","Unglazed ceramic mosaic tiles etc, <7cm wide","#299fff
+","array([ 6.53066422, -2.085645  ])"
+575,7112,0,17.669921875,"array([2287.92236328, 2775.20568848])",Waste or scrap containing gold as sole precious metal,"#330000
+","array([ 5.57439204, -1.8159081 ])"
+576,9023,0,15.1905517578125,"array([1866.26983643, 2614.25341797])","Instruments, apparatus and models, for demonstration","#299fff
+","array([ 6.22202781, -2.11625762])"
+577,2708,0,15.025634765625,"array([1980.87438965, 2140.69628906])",Pitch,"#299fff
+","array([ 6.13550464, -2.12563258])"
+578,2709,0,67.94873046875,"array([2450.61108398, 1815.6940918 ])","Petroleum oils, oils from bituminous minerals, crude","#330000
+","array([ 5.77623245, -1.30570083])"
+579,2814,0,16.302978515625,"array([2335.72521973, 1984.42285156])",Anhydrous ammonia,"#330000
+","array([ 5.76416246, -1.34148482])"
+580,2710,0,57.716064453125,"array([2348.25549316, 1844.48388672])","Oils petroleum, bituminous, distillates, except crude","#330000
+","array([ 5.78931936, -1.390607  ])"
+581,8713,0,15.027099609375,"array([1235.23474121, 1964.65441895])",Wheelchairs not mechanically propelled,"#9c219c
+","array([ 6.56967858, -1.72408295])"
+582,6909,0,15.31494140625,"array([1093.73620605, 2160.11767578])","Porcelain ware for laboratory, chemical, technical us","#9c219c
+","array([ 6.73253089, -1.80756093])"
+583,2707,0,17.375732421875,"array([2140.58972168, 2042.96124268])",Benzol,"#299fff
+","array([ 5.98347425, -2.08400078])"
+584,8702,0,17.50244140625,"array([2123.29492188, 2108.54907227])",Diesel powered buses,"#299fff
+","array([ 6.03693254, -2.05179854])"
+585,3817,0,15.2734375,"array([1420.27087402, 2001.68811035])","Mixed alkylbenzenes, nes","#9c219c
+","array([ 6.79313171, -1.72034344])"
+586,2902,0,21.302734375,"array([1397.21606445, 2086.22167969])",Cyclohexane,"#9c219c
+","array([ 6.74359866, -1.74976976])"
+587,2909,0,16.74072265625,"array([1285.4041748 , 2046.42285156])",Diethyl ether,"#9c219c
+","array([ 6.63023447, -1.80352834])"
+588,2906,0,15.107666015625,"array([1158.41760254, 2103.55505371])",Menthol,"#9c219c
+","array([ 6.59193164, -1.80683801])"
+589,7115,0,15.2265625,"array([1861.65405273, 2678.40527344])",Catalysts (form of wire cloth or grill) of platinum,"#299fff
+","array([ 6.19862774, -2.21010103])"
+590,2843,0,15.69873046875,"array([1854.2088623 , 2750.57397461])",Colloidal precious metals,"#299fff
+","array([ 6.1755691 , -2.27202899])"
+591,2901,0,18.6220703125,"array([2488.66357422, 1911.4864502 ])",Saturated acyclic hydrocarbons,"#330000
+","array([ 5.73799781, -1.23643224])"
+592,2849,0,15.21484375,"array([1581.91296387, 2182.5769043 ])",Calcium carbide,"#299fff
+","array([ 6.41524391, -2.088687  ])"
+593,8481,0,25.8779296875,"array([1745.54492188, 2311.58666992])","Valves, pressure reducing","#299fff
+","array([ 6.28577757, -1.98556042])"
+594,9607,0,15.164794921875,"array([2781.88977051, 2568.14306641])",Slide fasteners with chain scoops of base metal,"#33cc00
+","array([ 6.14551255, -1.40205123])"
+595,9305,0,15.0634765625,"array([1464.87036133, 2526.63598633])",Parts and accessories of revolvers or pistols,"#299fff
+","array([ 6.3888791 , -1.81540878])"
+596,9701,0,16.7633056640625,"array([1304.34539795, 2912.75537109])",Paintings/drawings/pastels executed by hand,"#9c9a87
+","array([ 7.23413453, -2.05920447])"
+597,9018,0,27.093994140625,"array([1341.3815918 , 2517.86035156])",Electro-cardiographs,"#99ffff
+","array([ 6.6772838 , -2.07394105])"
+598,9013,0,26.2880859375,"array([1164.07788086, 2501.51025391])","Telescopes for arms/other equipment, periscopes","#99ffff
+","array([ 6.88778672, -2.16194049])"
+599,9613,0,15.0830078125,"array([1444.62194824, 2870.06787109])","Pocket lighters, gas-fuelled, non-refillable","#0576a6
+","array([ 7.15277092, -2.16673292])"
+600,9101,0,16.068359375,"array([1413.9317627 , 2757.05810547])","Wrist-watch, precious metal, battery, with hands","#0576a6
+","array([ 6.95140636, -2.00815024])"
+601,5501,0,15.0537109375,"array([2579.23486328, 2565.1842041 ])","Filament tow of nylon, polyamides","#33cc00
+","array([ 6.25882101, -1.54486954])"
+602,5408,0,15.06494140625,"array([2579.13500977, 2515.90869141])",Woven fabric of hi-ten filament yarns of viscose rayo,"#33cc00
+","array([ 6.23074353, -1.60532774])"
+603,9609,0,15.014892578125,"array([2632.31262207, 2675.27148438])","Pencils/crayons, with leads in rigid sheath, nes","#9c9a87
+","array([ 6.33533025, -1.55264161])"
+604,5810,0,15.150390625,"array([2648.1574707 , 2679.03369141])",Embroidery without visible ground,"#33cc00
+","array([ 6.35584637, -1.57341525])"
+605,8479,0,29.599609375,"array([1433.57946777, 2251.26916504])","Machines for public works, building etc, nes","#299fff
+","array([ 6.49026636, -1.92546241])"
+606,9507,0,15.2158203125,"array([2752.40185547, 2546.22485352])",Fishing rods,"#33cc00
+","array([ 6.15975424, -1.47950271])"
+607,5804,0,15.0185546875,"array([2670.58862305, 2524.47412109])","Tulles, other nets (not woven, knit or crochet)","#33cc00
+","array([ 6.23260993, -1.55964202])"
+608,5402,0,17.387451171875,"array([1333.55529785, 2724.28271484])","Hi-ten yarn of nylon, polyamide, not sewing or retail","#99ffff
+","array([ 6.7186605 , -1.93447564])"
+609,8211,0,15.152587890625,"array([1111.7421875 , 2698.16992188])","Sets of different knives, cutlery sets","#9c9a87
+","array([ 6.87553212, -2.04385159])"
+610,8532,0,17.76953125,"array([1317.4309082 , 2669.47875977])",Fixed power capacitors (50/60 herz circuits),"#99ffff
+","array([ 6.68315637, -1.91305388])"
+611,5407,0,17.58642578125,"array([2647.83862305, 2585.13085938])","Woven hi-ten filament, nylon, polyamide or polyester","#33cc00
+","array([ 6.31234791, -1.6164397 ])"
+612,5210,0,15.209716796875,"array([2574.19934082, 2611.98071289])",Plain weave cotton <85% +manmade fibre <200g unbleach,"#33cc00
+","array([ 6.48444192, -1.74277712])"
+613,6217,0,15.215087890625,"array([2640.44128418, 2436.91967773])","Clothing accessories nes, textile material, not knit","#33cc00
+","array([ 6.08667961, -1.60719719])"
+614,6117,0,15.169677734375,"array([2727.57775879, 2417.49133301])","Shawls, scarves, veils etc, textile material, knit","#33cc00
+","array([ 6.10167306, -1.60614712])"
+615,5205,0,16.3037109375,"array([2813.55786133, 2551.05786133])","Cotton yarn >85% single uncombed >714 dtex,not retail","#33cc00
+","array([ 6.08110535, -1.35243668])"
+616,5515,0,15.411376953125,"array([2647.90637207, 2496.69604492])","Woven fabric polyester + viscose rayon, nes","#33cc00
+","array([ 6.17917984, -1.60338923])"
+617,5209,0,16.208984375,"array([2715.80688477, 2548.76660156])","Plain weave cotton, >85% >200g/m2, unbleached","#33cc00
+","array([ 6.13384101, -1.56614128])"
+618,6805,0,15.37255859375,"array([1847.41186523, 2249.74658203])",Abrasive powderor grain on woven textile support,"#330000
+","array([ 6.28932454, -1.92869503])"
+619,8474,0,18.236083984375,"array([2088.97058105, 2282.64331055])","Machines to sort, screen, wash stone, ores & minerals","#299fff
+","array([ 6.12950583, -1.94773723])"
+620,801,0,15.406005859375,"array([2806.50500488, 2276.95898438])","Coconuts, fresh or dried","#d1ff00
+","array([ 5.96612345, -1.28034409])"
+621,1801,0,15.96435546875,"array([2804.60961914, 2239.58959961])","Cocoa beans, whole or broken, raw or roasted","#d1ff00
+","array([ 5.93128997, -1.18821892])"
+622,3301,0,15.307861328125,"array([2414.50842285, 2591.66650391])",Essential oils of bergamot,"#bf8845
+","array([ 5.87430821, -1.85854435])"
+623,604,0,15.041748046875,"array([2070.76989746, 2865.51367188])","Mosses and lichens for bouquets, ornamental purposes","#d1ff00
+","array([ 5.54533443, -2.1149638 ])"
+624,2301,0,15.4892578125,"array([2222.94018555, 2818.11889648])","Flour or meal, pellet of meat or offal for animal fee","#d1ff00
+","array([ 5.59601037, -1.99379288])"
+625,504,0,15.420166015625,"array([2224.98669434, 2798.67724609])","Guts, bladders and stomachs of animals except fish","#d1ff00
+","array([ 5.77381714, -2.01398959])"
+626,207,0,17.99169921875,"array([1662.44152832, 2725.36791992])","Poultry, domestic, whole, fresh or chilled","#d1ff00
+","array([ 6.35057429, -1.90154301])"
+627,208,0,15.00146484375,"array([2131.25048828, 2726.45532227])","Rabbit or hare meat, offal, fresh, chilled or frozen","#d1ff00
+","array([ 5.90721206, -2.05375163])"
+628,301,0,15.12109375,"array([2206.72509766, 2893.30102539])","Ornamental fish, live","#d1ff00
+","array([ 5.50429185, -1.99287036])"
+629,210,0,15.504150390625,"array([1737.29821777, 2665.17114258])","Hams and shoulders, swine, salted, dried or smoked","#d1ff00
+","array([ 6.33318133, -2.18070458])"
+630,2004,0,15.60498046875,"array([1725.36083984, 2716.8984375 ])","Potatoes, prepared, frozen","#d1ff00
+","array([ 6.2883219 , -2.17949389])"
+631,204,0,15.589111328125,"array([2586.34313965, 2908.57910156])","Lamb carcasses and half carcasses, fresh or chilled","#d1ff00
+","array([ 5.59600666, -1.42992824])"
+632,2204,0,19.345458984375,"array([2585.44494629, 2857.6159668 ])","Grape wines, sparkling","#d1ff00
+","array([ 5.63139659, -1.45632507])"
+633,2002,0,15.42822265625,"array([2506.40600586, 2799.34008789])","Tomatoes, whole/pieces, prepared/preserved, no vinega","#d1ff00
+","array([ 5.61189931, -1.37568774])"
+634,3501,0,15.30078125,"array([2109.12329102, 2707.17248535])",Casein,"#d1ff00
+","array([ 5.85703227, -2.07406247])"
+635,101,0,15.217041015625,"array([2116.60705566, 2753.17407227])","Horses, live pure-bred breeding","#d1ff00
+","array([ 5.81426579, -2.09328164])"
+636,2607,0,15.4306640625,"array([2519.22070312, 2856.66601562])",Lead ores and concentrates,"#330000
+","array([ 5.66815105, -1.38972915])"
+637,8542,0,53.359619140625,"array([1202.72155762, 2563.58691406])","Monolithic integrated circuits, digital","#99ffff
+","array([ 6.81379156, -2.03860283])"
+638,8528,0,30.1444091796875,"array([1367.51727295, 2623.43725586])",Colour television receivers/monitors/projectors,"#99ffff
+","array([ 6.56699363, -2.01885113])"
+639,8518,0,18.448486328125,"array([1255.17822266, 2780.12329102])",Microphones and stands thereof,"#99ffff
+","array([ 6.84711799, -1.91206528])"
+640,8505,0,15.792724609375,"array([1284.56103516, 2727.93115234])","Metal permanent magnets, articles intended as magnets","#99ffff
+","array([ 6.7470919 , -2.06969512])"
+641,9012,0,15.07470703125,"array([1229.93017578, 2292.2434082 ])","Microscopes except optical, diffraction apparatus","#9c219c
+","array([ 6.70054057, -1.89793995])"
+642,9029,0,15.56689453125,"array([1783.32543945, 2253.44335938])",Revolution counters/taximeters/mileometers/pedometers,"#299fff
+","array([ 6.33586145, -1.88386919])"
+643,9030,0,17.694091796875,"array([1320.57983398, 2491.79418945])",Instruments to measure or detect ionising radiations,"#99ffff
+","array([ 6.64609115, -2.0151913 ])"
+644,8540,0,15.5224609375,"array([1247.08166504, 2519.40893555])","Colour cathode-ray television picture tubes, monitors","#99ffff
+","array([ 6.76082074, -2.04968626])"
+645,2939,0,15.519287109375,"array([1603.08898926, 2861.54638672])","Opium alkaloids, their derivs, in bulk, salts thereof","#9c9a87
+","array([ 6.47969822, -2.36525584])"
+646,704,0,15.144775390625,"array([2634.1451416 , 2789.60205078])","Cauliflowers and headed broccoli, fresh or chilled","#d1ff00
+","array([ 5.63721349, -1.50453931])"
+647,8805,0,15.093994140625,"array([1306.66345215, 2046.456604  ])","Aircraft launching and deck-arrestor gear, parts","#9c9a87
+","array([ 6.63748827, -1.76171373])"
+648,1901,0,16.62841796875,"array([2393.58496094, 2543.54394531])","Infant foods of cereals, flour, starch or milk, retai","#bf8845
+","array([ 6.01894084, -1.86897648])"
+649,1806,0,17.730224609375,"array([2389.42028809, 2351.95336914])","Cocoa powder, sweetened","#bf8845
+","array([ 6.07657841, -1.82855481])"
+650,406,0,18.88427734375,"array([2349.77807617, 2486.7923584 ])","Fresh cheese, unfermented whey cheese, curd","#bf8845
+","array([ 6.05160246, -1.87937774])"
+651,702,0,15.942626953125,"array([2620.28137207, 2833.89135742])","Tomatoes, fresh or chilled","#d1ff00
+","array([ 5.57230433, -1.47821478])"
+652,8309,0,15.653564453125,"array([2164.7598877 , 2437.30615234])","Corks, crown, of base metal","#ff0000
+","array([ 6.10987088, -1.9089333 ])"
+653,7325,0,16.00048828125,"array([2144.86987305, 2310.71362305])","Cast articles, of non-malleable cast iron nes","#299fff
+","array([ 6.13963624, -1.88641558])"
+654,6810,0,15.63134765625,"array([2373.76635742, 2455.08056641])","Building blocks, bricks of cement, or artificial ston","#ff0000
+","array([ 6.10850077, -1.80516264])"
+655,4415,0,15.291748046875,"array([2236.50012207, 2413.30786133])","Wooden cases, boxes, crates, drums and containers","#ff0000
+","array([ 6.12199592, -1.85229407])"
+656,9404,0,16.517333984375,"array([2553.72521973, 2253.69189453])",Mattress supports,"#33cc00
+","array([ 6.04614171, -1.70397126])"
+657,6304,0,15.28662109375,"array([2582.92919922, 2254.06274414])","Bedspreads, textile material, nes, knit or crochet","#33cc00
+","array([ 6.0439183 , -1.64467494])"
+658,6307,0,16.16748046875,"array([2610.51123047, 2193.15649414])","Floor & dish cloths, dusters, etc, textile material","#33cc00
+","array([ 6.02526277, -1.58972519])"
+659,8207,0,17.7340087890625,"array([1692.32574463, 2354.49414062])","Rock drilling, boring heads of sintered metal, carbid","#299fff
+","array([ 6.33063026, -2.02898642])"
+660,8454,0,15.4130859375,"array([1629.40844727, 2304.2800293 ])",Converters used in metallurgy or metal foundries,"#299fff
+","array([ 6.30370105, -2.00037716])"
+661,8459,0,15.657470703125,"array([1680.13574219, 2384.54980469])","Way-type unit head machines, metal working","#299fff
+","array([ 6.33107609, -2.0132087 ])"
+662,7007,0,16.2435302734375,"array([1831.55548096, 2270.19433594])","Safety glass (tempered) for vehicles, aircraft, etc","#299fff
+","array([ 6.27028602, -2.00903333])"
+663,8433,0,17.781494140625,"array([1703.98632812, 2498.52612305])","Mowers, powered, lawn, with horizontal cutting device","#299fff
+","array([ 6.30287903, -1.97365267])"
+664,8436,0,15.6796875,"array([1807.26037598, 2513.06738281])",Machinery for preparing animal feeding stuffs,"#299fff
+","array([ 6.27947786, -1.90733397])"
+665,6815,0,15.49658203125,"array([1587.85461426, 2486.06958008])",Non-electrical articles of graphite or other carbon,"#299fff
+","array([ 6.47105081, -2.02471562])"
+666,1202,0,15.10205078125,"array([2868.71264648, 2651.60107422])",Ground-nuts in shell not roasted or cooked,"#d1ff00
+","array([ 6.05465151, -1.18808688])"
+667,902,0,15.72119140625,"array([2881.3125    , 2689.98925781])","Tea, green (unfermented) in packages < 3 kg","#d1ff00
+","array([ 6.07607749, -1.15003702])"
+668,1003,0,16.0528564453125,"array([2014.31573486, 2721.42114258])",Barley,"#d1ff00
+","array([ 6.15907301, -2.14285459])"
+669,1001,0,22.7635498046875,"array([2011.54815674, 2762.05517578])",Durum wheat,"#d1ff00
+","array([ 6.14120474, -2.20881296])"
+670,1206,0,15.20361328125,"array([2302.0546875 , 2590.78808594])",Sunflower seeds,"#d1ff00
+","array([ 6.20927072, -1.70212824])"
+671,1005,0,19.13232421875,"array([2279.3840332 , 2668.86743164])",Maize (corn) seed,"#d1ff00
+","array([ 6.24447679, -1.64447689])"
+672,3306,0,15.50048828125,"array([2071.03979492, 2200.3840332 ])",Dentifrices,"#299fff
+","array([ 6.01243231, -1.97268434])"
+673,9306,0,15.59375,"array([1695.09362793, 2767.96142578])","Cartridges for rivet etc tools, humane killers, etc","#299fff
+","array([ 6.50115006, -2.14280799])"
+674,4813,0,15.1190185546875,"array([1371.14080811, 2070.10986328])","Paper, cigarette, in the form of booklets or tubes","#9c219c
+","array([ 6.47700048, -1.81468035])"
+675,7215,0,15.46826171875,"array([2193.15576172, 2604.2668457 ])","Bar/rod, cold formed/finished free cutting steel","#9c9a87
+","array([ 6.00269755, -1.83218756])"
+676,3406,0,15.26806640625,"array([2113.91894531, 1994.46783447])","Candles, tapers and the like","#9c9a87
+","array([ 5.95722448, -2.32486896])"
+677,3404,0,15.189697265625,"array([1346.11523438, 2016.17706299])","Artificial & prepared waxes, of modified lignite","#9c219c
+","array([ 6.59272969, -1.8997481 ])"
+678,3503,0,15.0380859375,"array([1368.87719727, 2430.83154297])","Gelatin & derivatives, isinglass, glues (animal) nes","#9c219c
+","array([ 6.31304146, -1.77709718])"
+679,4414,0,15.0048828125,"array([2106.0769043 , 2066.26635742])","Wooden frames for paintings, photographs, mirrors etc","#9c9a87
+","array([ 5.99277421, -2.28884951])"
+680,9209,0,15.0693359375,"array([1251.08459473, 2823.19335938])","Metronomes, tuning forks and pitch pipes","#99ffff
+","array([ 6.92665345, -1.90530611])"
+681,3505,0,15.36962890625,"array([1254.46118164, 2857.71289062])",Dextrins and other modified starches,"#99ffff
+","array([ 6.97922547, -1.8979168 ])"
+682,3212,0,15.195556640625,"array([1993.78271484, 2630.140625  ])",Stamping foils,"#730049
+","array([ 6.15340748, -1.98844433])"
+683,3808,0,18.639892578125,"array([1372.22375488, 2407.77636719])","Insecticides, packaged for retail sale","#9c219c
+","array([ 6.32608556, -1.8045713 ])"
+684,3504,0,15.128173828125,"array([1369.12988281, 2327.97021484])","Peptones, proteins and derivatives, nes, hide powder","#9c219c
+","array([ 6.43475551, -1.85351824])"
+685,2519,0,15.140380859375,"array([1377.6003418 , 2969.88244629])",Natural magnesium carbonate (magnesite),"#0576a6
+","array([ 7.2126142, -2.2866194])"
+686,7227,0,15.537353515625,"array([1363.59997559, 2907.56237793])","Bar/rod, of high speed steel, irregular coils","#0576a6
+","array([ 7.18178614, -2.25814181])"
+687,1504,0,15.08544921875,"array([2177.24829102, 2943.75805664])","Fish-liver oils, fractions, not chemically modified","#d1ff00
+","array([ 5.45451506, -2.12210475])"
+688,1302,0,15.535888671875,"array([2177.77160645, 2595.88623047])",Opium sap,"#730049
+","array([ 6.02095789, -1.84927313])"
+689,4809,0,15.033203125,"array([1264.8963623 , 2007.03057861])","Paper, carbon or similar width >36 cm","#9c219c
+","array([ 6.72822336, -1.70985401])"
+690,1214,0,15.085693359375,"array([1270.38037109, 1951.07189941])",Lucerne (alfalfa) meal and pellets,"#d1ff00
+","array([ 6.77227145, -1.6746998 ])"
+691,1208,0,15.021240234375,"array([2729.22351074, 2815.61328125])",Soya bean flour or meal,"#d1ff00
+","array([ 5.44978733, -1.51080265])"
+692,1207,0,15.332763671875,"array([2441.5682373 , 2161.52270508])",Palm nuts and kernels,"#d1ff00
+","array([ 5.92779131, -1.73278612])"
+693,2507,0,15.154052734375,"array([1103.60754395, 1991.38037109])",Kaolin and other kaolinic clays,"#9c9a87
+","array([ 6.58540563, -1.62969798])"
+694,2508,0,15.115966796875,"array([1952.83618164, 2706.48730469])",Bentonite,"#6e451e
+","array([ 6.11834357, -2.18942578])"
+695,2904,0,15.03955078125,"array([1949.01794434, 2742.78442383])","Sulphonated hydrocarbons, salts and ethyl esters","#6e451e
+","array([ 6.09883299, -2.26521076])"
+696,6813,0,15.032470703125,"array([1947.00646973, 2671.76367188])",Asbestos brake linings and pads,"#6e451e
+","array([ 6.15505692, -2.09451067])"
+697,2510,0,15.8623046875,"array([2125.89746094, 1746.11425781])","Natural calcium phosphates, unground","#6e451e
+","array([ 5.49164734, -2.55472139])"
+698,2809,0,16.031005859375,"array([2137.31506348, 1779.14245605])",Diphosphorus pentaoxide,"#6e451e
+","array([ 5.52763963, -2.53812888])"
+699,2516,0,15.1435546875,"array([2090.2331543 , 2201.88427734])","Granite, crude or roughly trimmed","#330000
+","array([ 6.07285588, -2.00678981])"
+700,2517,0,15.337158203125,"array([2369.4498291, 2595.4465332])","Pebbles, gravel, broken & crushed stone for aggregate","#ff0000
+","array([ 6.1701849, -1.7514974])"
+701,2302,0,15.053466796875,"array([2461.71911621, 2096.22399902])","Maize bran, sharps, other residues","#d1ff00
+","array([ 5.88567414, -1.67969461])"
+702,1006,0,18.2314453125,"array([2898.69604492, 2655.1862793 ])",Rice in the husk (paddy or rough),"#d1ff00
+","array([ 6.04597438, -1.13773675])"
+703,6402,0,18.06201171875,"array([2747.21923828, 2609.04907227])","Ski-boots etc, outer soles, uppers of rubber, plastic","#33cc00
+","array([ 6.19485111, -1.42835852])"
+704,3001,0,15.174560546875,"array([1371.43505859, 2021.8536377 ])","Glands and other organs, dried, for therapeutic uses","#9c219c
+","array([ 6.59393783, -1.75171387])"
+705,3909,0,16.65869140625,"array([1868.11315918, 2388.29443359])","Urea resins, thiourea resins, in primary forms","#299fff
+","array([ 6.26718033, -1.95365715])"
+706,2941,0,16.75341796875,"array([1190.7208252 , 2397.78173828])","Penicillins, derivatives, in bulk, salts","#9c219c
+","array([ 6.54161429, -1.90300343])"
+707,804,0,15.76513671875,"array([2480.26196289, 2582.29052734])","Dates, fresh or dried","#bf8845
+","array([ 5.89500066, -1.77741039])"
+708,8451,0,15.837890625,"array([1681.37023926, 2119.94384766])",Dry-cleaning machines,"#299fff
+","array([ 6.2500265, -2.1295005])"
+709,9608,0,15.69482421875,"array([1647.51379395, 2746.66943359])",Ball point pens,"#299fff
+","array([ 6.42088618, -2.19422465])"
+710,5404,0,15.03271484375,"array([2000.07434082, 2660.16235352])","Synthetic monofilament, >67 dtex, thickness < 1mm","#730049
+","array([ 6.09681864, -2.03496798])"
+711,3302,0,17.30615234375,"array([1374.96826172, 2111.73925781])",Mixed odoriferous substances - food & drink industrie,"#9c219c
+","array([ 6.49952233, -1.83179448])"
+712,6116,0,15.2470703125,"array([1350.72497559, 2590.12011719])","Gloves impregnated or coated with plastic,rubber, kni","#99ffff
+","array([ 6.7855712 , -1.90945055])"
+713,3005,0,15.7119140625,"array([1756.99023438, 2159.28942871])",Medical dressings etc. having an adhesive layer,"#299fff
+","array([ 6.25532978, -2.06882648])"
+714,3103,0,15.466796875,"array([1087.52758789, 2237.87353516])","Superphosphates, in packs >10 kg","#9c219c
+","array([ 6.5033348 , -1.63274248])"
+715,7508,0,15.01806640625,"array([1494.03222656, 2192.1105957 ])","Articles of nickel, nes","#299fff
+","array([ 6.4318627 , -1.79590317])"
+716,8420,0,15.0400390625,"array([1587.0958252 , 2829.31884766])","Calendering or rolling machines, not. for metals/glas","#299fff
+","array([ 6.46829552, -2.41434406])"
+717,9017,0,15.146728515625,"array([1763.76757812, 2634.28930664])",Drafting tables and machines,"#299fff
+","array([ 6.30254842, -2.09346631])"
+718,7113,0,21.661865234375,"array([2845.0723877 , 2499.36193848])","Jewellery and parts, silver, including plated silver","#330000
+","array([ 6.13408994, -1.27895744])"
+719,8464,0,15.4039306640625,"array([1576.1449585 , 2860.97045898])","Sawing machines for stone, ceramics and glass","#299fff
+","array([ 6.47899496, -2.48376015])"
+720,3303,0,16.88232421875,"array([1711.65283203, 2878.21142578])",Perfumes and toilet waters,"#6e451e
+","array([ 6.58778971, -2.26205051])"
+721,7311,0,15.390380859375,"array([2795.79724121, 2409.47839355])","Containers for compressed/liquefied gas, iron or stee","#33cc00
+","array([ 6.08119547, -1.50704761])"
+722,8447,0,15.3612060546875,"array([1480.33685303, 2841.9128418 ])","Circular knitting machines, diameter < 165 mm","#0576a6
+","array([ 7.18205076, -2.16172968])"
+723,8446,0,15.128173828125,"array([1675.17553711, 2882.08789062])","Machines for weaving fabric, width < 30 cm","#299fff
+","array([ 6.40687001, -2.45531769])"
+724,7224,0,15.631103515625,"array([1568.26379395, 2214.25170898])","Ingots, primary forms of alloy steel, except stainles","#299fff
+","array([ 6.36123554, -1.81035266])"
+725,4203,0,16.16015625,"array([2062.93603516, 1922.89245605])",Articles of apparel of leather or composition leather,"#6e451e
+","array([ 5.90441653, -2.63818167])"
+726,2918,0,15.8359375,"array([1266.42541504, 2354.59790039])","Lactic acid, its salts & esters","#9c219c
+","array([ 6.41922326, -1.76870852])"
+727,2930,0,16.27685546875,"array([1246.40722656, 2139.20849609])",Dithiocarbonates (xanthates),"#9c219c
+","array([ 6.51830873, -1.76481398])"
+728,1803,0,15.12060546875,"array([2799.1496582 , 2155.12939453])",Cocoa paste not defatted,"#d1ff00
+","array([ 5.85252034, -1.1190501 ])"
+729,1805,0,15.0205078125,"array([2843.04614258, 2177.83666992])","Cocoa powder, unsweetened","#d1ff00
+","array([ 5.87273239, -1.10090663])"
+730,6305,0,15.355224609375,"array([2552.20715332, 2403.89257812])","Sacks & bags, packing, of jute or other bast fibres","#33cc00
+","array([ 6.05028572, -1.67855972])"
+731,7310,0,15.70068359375,"array([2352.19824219, 2410.25952148])","Tank, cask or container, iron/steel, capacity 50-300l","#ff0000
+","array([ 6.07217998, -1.79671219])"
+732,3401,0,15.76123046875,"array([2464.42993164, 2348.85095215])","Soaps, for toilet use, solid","#ff0000
+","array([ 5.99401495, -1.75001791])"
+733,4819,0,17.64794921875,"array([2426.63891602, 2408.41674805])","Cartons, boxes & cases, of corrugated paper or board","#ff0000
+","array([ 6.05570273, -1.76433778])"
+734,1704,0,16.088134765625,"array([2451.98522949, 2406.33666992])","Chewing gum containing sugar, except medicinal","#bf8845
+","array([ 6.03927906, -1.76169454])"
+735,2001,0,15.09423828125,"array([2442.14550781, 2346.54907227])","Cucumbers,gherkins, prepared or preserved by vinegar","#bf8845
+","array([ 6.06558199, -1.72912471])"
+736,4818,0,17.970458984375,"array([2331.75622559, 2396.92895508])",Toilet paper,"#ff0000
+","array([ 6.06145711, -1.82401749])"
+737,8418,0,20.997314453125,"array([2286.65075684, 2395.37744141])","Combined refrigerator-freezers, two door","#ff0000
+","array([ 6.09886304, -1.81378198])"
+738,4811,0,17.619873046875,"array([1835.94372559, 2361.20483398])","Paper, tarred, bituminised or asphalted, nes","#299fff
+","array([ 6.3204932, -1.8900925])"
+739,3912,0,15.5733642578125,"array([1359.18426514, 2181.90869141])","Cellulose acetates, non-plasticised, in primary forms","#9c219c
+","array([ 6.56081502, -1.84991834])"
+740,3403,0,15.8436279296875,"array([1323.57757568, 2243.80493164])","Lubricant <70% petroleum oil, textile or leather use","#9c219c
+","array([ 6.49135676, -1.86077274])"
+741,2914,0,15.7808837890625,"array([1246.48382568, 2212.06030273])",Acetone,"#9c219c
+","array([ 6.48663196, -1.79110779])"
+742,8414,0,24.205078125,"array([1762.55834961, 2495.2956543 ])",Vacuum pumps,"#299fff
+","array([ 6.31319998, -2.01282858])"
+743,9003,0,15.51806640625,"array([1443.5769043 , 2838.43383789])","Frames & mountings for spectacles etc, of plastic","#0576a6
+","array([ 7.21444223, -2.15059072])"
+744,9004,0,15.7530517578125,"array([1489.6572876 , 2904.74194336])",Sunglasses,"#0576a6
+","array([ 7.25801376, -2.16410182])"
+745,8511,0,17.2659912109375,"array([1802.41339111, 2482.38842773])",Spark plugs,"#299fff
+","array([ 6.28610709, -1.94960175])"
+746,8710,0,15.29052734375,"array([1731.7376709 , 2786.37841797])",Tanks and other armoured fighting vehicles,"#299fff
+","array([ 6.51475782, -2.20967358])"
+747,8802,0,34.047119140625,"array([1760.65869141, 2880.84033203])","Helicopters of an unladen weight < 2,000 kg","#299fff
+","array([ 6.55102638, -2.17959234])"
+748,8803,0,25.6973876953125,"array([1330.29730225, 2937.18359375])","Aircraft propellers, rotors and parts thereof","#0576a6
+","array([ 7.22178886, -2.02496711])"
+749,8907,0,15.029296875,"array([1694.58349609, 1979.31530762])",Inflatable rafts,"#299fff
+","array([ 6.38365873, -2.27304904])"
+750,9114,0,15.093017578125,"array([1368.53918457, 2757.22143555])","Clock or watch springs, including hair-springs","#0576a6
+","array([ 6.92297444, -2.05005456])"
+751,8602,0,15.236572265625,"array([1872.01281738, 2694.48339844])","Rail locomotives, diesel-electric","#299fff
+","array([ 6.03843822, -2.12988175])"
+752,8906,0,15.2763671875,"array([1899.80847168, 2709.69799805])","Warships, lifeboats, hospital ships, vessels nes","#299fff
+","array([ 6.02371906, -2.09551007])"
+753,8709,0,15.0902099609375,"array([1838.58746338, 2607.14257812])","Work trucks, electrically powered","#299fff
+","array([ 6.29752363, -1.81839102])"
+754,2804,0,17.395263671875,"array([1740.14001465, 2070.22692871])",Hydrogen,"#330000
+","array([ 6.33589578, -2.26273659])"
+755,4902,0,15.955810546875,"array([2181.24328613, 2511.59741211])","Newspapers, journals and periodicals, > 3 issues/week","#ff0000
+","array([ 6.15919693, -1.8875197 ])"
+756,7605,0,15.394775390625,"array([1544.10131836, 2150.68847656])","Wire, aluminium, not alloyed, t > 7mm","#9c9a87
+","array([ 6.38738745, -1.67355302])"
+757,6804,0,15.412109375,"array([1672.75964355, 2307.12963867])","Stones for milling, grinding or pulping","#299fff
+","array([ 6.30162606, -2.02520824])"
+758,6212,0,16.15869140625,"array([2740.34472656, 2356.38000488])",Brassieres and parts thereof,"#33cc00
+","array([ 6.10523683, -1.63383575])"
+759,6405,0,15.248291015625,"array([2565.36853027, 2336.98999023])","Footwear, nes, uppers leather","#33cc00
+","array([ 6.11389693, -1.65735333])"
+760,6210,0,15.94970703125,"array([2706.94580078, 2356.30883789])",Garments made up of textile felts and nonwoven fabric,"#33cc00
+","array([ 6.11726482, -1.62295741])"
+761,6211,0,16.2353515625,"array([2649.05273438, 2296.61352539])","Mens, boys swimwear, not knit","#33cc00
+","array([ 6.1021174 , -1.65974852])"
+762,6206,0,16.64208984375,"array([2713.65795898, 2324.57531738])","Womens, girls blouses & shirts, of silk, not knit","#33cc00
+","array([ 6.08720823, -1.64776834])"
+763,6208,0,15.240478515625,"array([2573.0357666 , 2386.66845703])","Womens, girls slips etc, of manmade fibres, not knit","#33cc00
+","array([ 6.10649441, -1.64654597])"
+764,6201,0,16.300048828125,"array([2608.59069824, 2283.20043945])","Mens, boys overcoats of wool or hair, not knit","#33cc00
+","array([ 6.10923541, -1.68102745])"
+765,6205,0,16.882568359375,"array([2700.84216309, 2420.22070312])","Mens, boys shirts, of wool or hair, not knit","#33cc00
+","array([ 6.09664412, -1.65000708])"
+766,8402,0,15.919189453125,"array([1999.02966309, 2205.92358398])","Water tube boilers, steam production < 45T per hour","#299fff
+","array([ 6.12612677, -2.03435115])"
+767,9102,0,17.438720703125,"array([2827.28991699, 2793.72900391])","Wrist-watch, base-metal case, battery, with hands","#6e451e
+","array([ 6.43617328, -1.16847626])"
+768,8306,0,15.150390625,"array([2795.71118164, 2777.66088867])","Bells, gongs and the like, of base metal","#6e451e
+","array([ 6.40336728, -1.22663145])"
+769,9032,0,19.140625,"array([1634.69165039, 2421.40380859])",Thermostats,"#299fff
+","array([ 6.34425727, -1.95484308])"
+770,8439,0,15.80615234375,"array([1481.42297363, 2402.36572266])",Machinery for pulping fibrous cellulosic material,"#299fff
+","array([ 6.41791899, -1.99100088])"
+771,8424,0,17.359130859375,"array([1596.65466309, 2418.37207031])","Fire extinguishers, whether or not charged","#299fff
+","array([ 6.3549732 , -1.91957432])"
+772,6406,0,15.836669921875,"array([2667.59655762, 2272.57617188])","Footwear uppers and parts thereof, except stiffeners","#33cc00
+","array([ 6.06203561, -1.65579731])"
+773,9401,0,23.50830078125,"array([2067.59277344, 2351.28295898])","Seats, aircraft","#299fff
+","array([ 6.17675677, -1.80437899])"
+774,8546,0,15.2147216796875,"array([2029.38140869, 2339.94482422])",Electrical insulators of glass,"#299fff
+","array([ 6.17540834, -1.93037882])"
+775,8431,0,25.504638671875,"array([1959.37390137, 2327.40332031])",Parts of hoists and winches,"#299fff
+","array([ 6.23075637, -1.93060205])"
+776,4001,0,17.75634765625,"array([2841.31298828, 2238.31652832])","Natural rubber latex, including prevulcanised","#d1ff00
+","array([ 5.92623437, -1.11668175])"
+777,1513,0,15.68798828125,"array([2875.66503906, 2208.30615234])",Coconut (copra) oil crude,"#d1ff00
+","array([ 5.91513416, -1.05407158])"
+778,8536,0,26.74951171875,"array([1971.09997559, 2365.93823242])","Electrical fuses, for < 1,000 volts","#299fff
+","array([ 6.22902114, -1.91429315])"
+779,8468,0,15.07275390625,"array([1704.4519043 , 2297.71777344])","Torches, hand-held, for soldering/brazing/welding","#299fff
+","array([ 6.32834704, -1.91190534])"
+780,8302,0,18.747802734375,"array([1936.30090332, 2358.37670898])",Hinges of base metal,"#299fff
+","array([ 6.22796544, -1.94166944])"
+781,8301,0,16.421630859375,"array([1929.06445312, 2295.48217773])",Padlocks of base metal,"#299fff
+","array([ 6.20089918, -1.93151243])"
+782,4016,0,17.93408203125,"array([1859.64953613, 2324.97363281])",Articles of cellular rubber,"#299fff
+","array([ 6.23793643, -1.95905038])"
+783,4008,0,15.4229736328125,"array([1862.38873291, 2351.72558594])","Plate, sheet, strip of vulcanised cellular rubber","#299fff
+","array([ 6.25563803, -1.9604998 ])"
+784,4005,0,15.8497314453125,"array([1866.76483154, 2448.66943359])","Compounded (carbon black, silica) unvulcanised rubber","#299fff
+","array([ 6.27593481, -1.9359149 ])"
+785,9405,0,19.22607421875,"array([1892.65075684, 2325.73144531])","Chandeliers, other electric ceiling or wall lights","#299fff
+","array([ 6.22049375, -1.96435748])"
+786,7307,0,17.914306640625,"array([1759.2253418 , 2338.48095703])",Pipe fittings of non-malleable cast iron,"#299fff
+","array([ 6.27169937, -2.02527637])"
+787,7009,0,15.4732666015625,"array([1722.26483154, 2523.22729492])",Rear-view mirrors for vehicles,"#299fff
+","array([ 6.3466426 , -2.00338187])"
+788,6111,0,15.755126953125,"array([2692.95349121, 2396.05981445])","Babies garments, accessories of wool or hair, knit","#33cc00
+","array([ 6.1017886 , -1.62291979])"
+789,8434,0,15.164794921875,"array([1941.10351562, 2470.04370117])",Milking machines,"#299fff
+","array([ 6.2090768 , -1.97523395])"
+790,4810,0,20.182861328125,"array([1472.39367676, 2344.1159668 ])","Paper, fine, woodfree, <150 g/m2, clay coated","#299fff
+","array([ 6.48094211, -1.95988155])"
+791,3821,0,15.0057373046875,"array([1315.80853271, 2157.58239746])",Prepared culture media for developing micro-organisms,"#9c219c
+","array([ 6.53875044, -1.86196739])"
+792,8438,0,16.612548828125,"array([1978.58178711, 2390.81738281])",Bakery and pasta making machinery,"#299fff
+","array([ 6.22661927, -1.89920735])"
+793,4009,0,16.0736083984375,"array([1777.59063721, 2363.61206055])","Rubber tube, pipe or hose not reinforced, no fittings","#299fff
+","array([ 6.27577517, -1.96483683])"
+794,3305,0,16.375244140625,"array([2083.73498535, 2444.96557617])",Hair shampoos,"#730049
+","array([ 6.10064705, -1.9336125 ])"
+795,8903,0,17.3138427734375,"array([2033.86175537, 2384.27929688])",Inflatable pleasure craft,"#299fff
+","array([ 6.12580503, -1.97402161])"
+796,8701,0,23.170166015625,"array([1822.73937988, 2463.75463867])",Pedestrian controlled tractors,"#299fff
+","array([ 6.26153166, -1.87864919])"
+797,9406,0,16.149169921875,"array([2243.27160645, 2364.57006836])",Prefabricated buildings,"#ff0000
+","array([ 6.11708115, -1.82012378])"
+798,7411,0,16.11181640625,"array([1455.65405273, 2412.1875    ])","Pipes or tubes, refined copper","#299fff
+","array([ 6.53346047, -2.03610789])"
+799,7320,0,15.737548828125,"array([1990.62072754, 2312.30151367])","Leaf springs/leaves thereof, iron or steel","#299fff
+","array([ 6.21203152, -1.93308131])"
+800,4010,0,15.693115234375,"array([1804.07739258, 2337.20947266])","Transmission belts etc, rubber, trapezoidal","#299fff
+","array([ 6.27003816, -1.98521776])"
+801,5703,0,15.84228515625,"array([2767.20483398, 2686.64794922])","Carpets of wool or fine animal hair, tufted","#33cc00
+","array([ 6.37473004, -1.37896188])"
+802,6204,0,22.95751953125,"array([2686.62402344, 2340.7902832 ])","Womens, girls suits, of wool or hair, not knit","#33cc00
+","array([ 6.08009408, -1.67399181])"
+803,6209,0,15.253662109375,"array([2739.2376709 , 2393.78393555])","Babies garments, accessories of wool or hair, not kni","#33cc00
+","array([ 6.11329052, -1.60598092])"
+804,1101,0,15.58935546875,"array([2472.66162109, 2234.08251953])",Wheat or meslin flour,"#d1ff00
+","array([ 5.94971163, -1.70911603])"
+805,2523,0,16.82958984375,"array([2489.08007812, 2358.26586914])",Cement clinkers,"#ff0000
+","array([ 6.02779615, -1.71314849])"
+806,1205,0,16.2216796875,"array([2018.63720703, 2689.62646484])",Rape or colza seeds,"#d1ff00
+","array([ 6.18679567, -2.04578809])"
+807,8403,0,15.952392578125,"array([1805.34912109, 2534.47265625])",Central heating boilers nes,"#299fff
+","array([ 6.2832183 , -2.00271918])"
+808,1211,0,15.14501953125,"array([2619.3359375 , 2326.36425781])",Liquorice roots,"#33cc00
+","array([ 6.0250552 , -1.66034171])"
+809,6203,0,20.844482421875,"array([2589.80847168, 2313.7322998 ])","Mens, boys suits, of wool or hair, not knit","#33cc00
+","array([ 6.0659151 , -1.67840714])"
+810,1514,0,15.7783203125,"array([2033.39660645, 2658.56054688])","Canola, rape, colza or mustard oil, crude","#d1ff00
+","array([ 6.14035821, -1.9596267 ])"
+811,3214,0,15.883544921875,"array([2005.08203125, 2435.04199219])","Mastics, painters fillings","#730049
+","array([ 6.17713297, -1.89595438])"
+812,2834,0,15.0723876953125,"array([2022.44012451, 2832.60351562])",Nitrites of metals,"#9c9a87
+","array([ 5.8914091, -2.1124076])"
+813,2833,0,15.412109375,"array([1939.77111816, 2786.98999023])",Disodium sulphate,"#6e451e
+","array([ 6.0895183 , -2.31883225])"
+814,4602,0,15.089111328125,"array([2796.84533691, 2313.25305176])","Basketwork, wickerwork products of vegetable material","#33cc00
+","array([ 6.00578947, -1.3786859 ])"
+815,802,0,16.146728515625,"array([2370.95471191, 2656.27612305])",Almonds in shell fresh or dried,"#d1ff00
+","array([ 5.71790021, -1.83274971])"
+816,2520,0,15.029052734375,"array([2388.15881348, 2672.67980957])","Gypsum, anhydride","#9c9a87
+","array([ 5.67356673, -1.84757313])"
+817,4102,0,15.0,"array([2352.04052734, 2621.54589844])","Sheep or lamb skins, raw, wool on, except Persian etc","#d1ff00
+","array([ 5.77742362, -1.81808137])"
+818,901,0,18.141357421875,"array([2065.48474121, 2917.87402344])","Coffee, not roasted, not decaffeinated","#d1ff00
+","array([ 5.3308019 , -2.08957411])"
+819,4801,0,16.588623046875,"array([1434.46777344, 2389.8269043 ])",Newsprint,"#9c9a87
+","array([ 6.52605131, -2.00421018])"
+820,7110,0,20.118408203125,"array([1040.30505371, 2127.93005371])",Platinum unwrought or in powder form,"#330000
+","array([ 6.92191153, -1.68919934])"
+821,2822,0,15.01409912109375,"array([ 997.90982056, 2125.12426758])",Cobalt oxides and hydroxides,"#330000
+","array([ 6.96179677, -1.66202397])"
+822,2841,0,15.11328125,"array([1765.45422363, 2096.16711426])",Metallic aluminates,"#330000
+","array([ 6.32938035, -2.29375407])"
+823,2825,0,15.597900390625,"array([1775.1072998 , 2043.27453613])","Hydrazine and hydroxylamine, inorganic salts","#330000
+","array([ 6.32894523, -2.35106135])"
+824,5403,0,15.068603515625,"array([1515.64099121, 2695.42480469])","Hi-ten yarn not sewing, viscose rayon, not retail","#299fff
+","array([ 6.41876878, -1.89175873])"
+825,2826,0,15.006591796875,"array([1504.04187012, 2737.71508789])",Fluorides of ammonium or of sodium,"#299fff
+","array([ 6.4167975 , -1.82997943])"
+826,2836,0,15.763671875,"array([1113.83874512, 2044.60595703])",Ammonium carbonate (including commercial),"#9c219c
+","array([ 6.63773881, -1.63301941])"
+827,2827,0,15.1884765625,"array([1144.25256348, 2080.22119141])",Ammonium chloride,"#9c219c
+","array([ 6.61112373, -1.69052451])"
+828,7305,0,17.199462890625,"array([1599.65930176, 2188.88769531])",Pipe-line submerged arc welded steel diameter >406mm,"#299fff
+","array([ 6.42160402, -2.11515741])"
+829,7201,0,16.21923828125,"array([1595.00402832, 2154.62817383])","Pig iron, non-alloy, <0.5% phosphorus","#299fff
+","array([ 6.45485945, -2.17214091])"
+830,7209,0,18.392333984375,"array([2196.73815918, 2009.40112305])","Cold rolled iron or non-alloy steel, coil, width >600mm, t >3mm, 355 mp","#330000
+","array([ 5.84806105, -2.30326205])"
+831,7202,0,21.199951171875,"array([2228.26818848, 1973.28704834])","Ferro-manganese, >2% carbon","#330000
+","array([ 5.83432345, -2.34564157])"
+832,7207,0,22.220458984375,"array([1560.39086914, 2127.79321289])","Rectangular iron or non-alloy steel bars, <.25%C, width< twice thicknes","#299fff
+","array([ 6.39180022, -1.70973104])"
+833,7205,0,15.1763916015625,"array([1783.43060303, 2718.27050781])",Granules of pig iron or spiegeleisen,"#299fff
+","array([ 6.32862248, -2.09100319])"
+834,7301,0,15.2421875,"array([1822.14318848, 2781.37158203])",Sheet piling of iron or steel,"#299fff
+","array([ 6.18773708, -2.12384796])"
+835,7210,0,22.632568359375,"array([2249.23571777, 2026.24658203])","Flat rolled iron or non-alloy steel, coated with tin, w >600mm, t >0.5m","#330000
+","array([ 5.80700156, -2.31828694])"
+836,7214,0,19.868896484375,"array([2206.59924316, 2198.28979492])","Bar/rod, iron or non-alloy steel, forged","#299fff
+","array([ 6.2518528 , -1.70199145])"
+837,7213,0,17.4013671875,"array([2207.19311523, 2160.16577148])",Hot rolled bar/rod grooved iron or non-alloy steel in irregular coils,"#299fff
+","array([ 6.28780504, -1.63344953])"
+838,3405,0,15.139404296875,"array([2052.83190918, 2475.61694336])","Polishes, creams etc. for footwear or leather","#730049
+","array([ 6.10757696, -1.95655835])"
+839,4201,0,15.0123291015625,"array([2016.86785889, 1938.83660889])","Saddlery and harness, of any material","#6e451e
+","array([ 5.87046388, -2.65520224])"
+840,2803,0,15.4254150390625,"array([1544.55560303, 2201.77050781])","Carbon (carbon blacks and other forms of carbon, nes)","#330000
+","array([ 6.37124788, -1.73123205])"
+841,6807,0,15.197509765625,"array([1929.09777832, 2666.99755859])","Asphalt or similar material articles, in rolls","#299fff
+","array([ 6.13766457, -2.07716873])"
+842,2715,0,15.0347900390625,"array([1932.0692749 , 2711.39111328])","Bituminous mix, mastic from asphalt, bitumen/tar/pitc","#330000
+","array([ 6.09436255, -2.15774697])"
+843,2714,0,15.0181884765625,"array([1929.05084229, 2757.86035156])",Bituminous or oil shale and tar sands,"#330000
+","array([ 6.06408285, -2.20835964])"
+844,7408,0,18.53857421875,"array([2193.75708008, 1948.17895508])",Wire of refined copper > 6mm wide,"#330000
+","array([ 5.76575612, -2.3838181 ])"
+845,3901,0,24.498779296875,"array([2101.00476074, 1870.97631836])",Polyethylene - specific gravity <0.94 in primary form,"#9c9a87
+","array([ 5.73960136, -2.47326529])"
+846,2713,0,17.673095703125,"array([2154.29211426, 1926.35449219])","Petroleum coke, not calcined","#330000
+","array([ 5.751362  , -2.43385397])"
+847,6912,0,15.16943359375,"array([2082.27416992, 2098.98193359])","Ceramic housewares, except of porcelain or china","#299fff
+","array([ 6.04233376, -2.24054408])"
+848,8905,0,18.29638671875,"array([2025.08996582, 2050.75665283])",Dredgers,"#9c9a87
+","array([ 6.03021743, -2.36311465])"
+849,4015,0,15.57177734375,"array([1277.12121582, 2805.48535156])",Rubber surgical gloves,"#99ffff
+","array([ 6.90185343, -1.88503657])"
+850,4101,0,15.516845703125,"array([2342.4407959, 2577.6854248])","Bovine skins, whole, raw","#d1ff00
+","array([ 5.9017511 , -1.82476731])"
+851,4105,0,15.079345703125,"array([2344.48620605, 2653.61877441])","Sheep or lamb skin leather, vegetable pre-tanned","#d1ff00
+","array([ 5.68336317, -1.80031051])"
+852,4104,0,17.4658203125,"array([2767.85546875, 2241.10864258])","Bovine skin leather, whole","#d1ff00
+","array([ 5.99311823, -1.47113809])"
+853,4107,0,15.021484375,"array([2753.40649414, 2281.59667969])",Swine leather,"#d1ff00
+","array([ 6.02009256, -1.52390203])"
+854,7108,0,36.7177734375,"array([2316.3137207 , 2718.57165527])",Gold powder non-monetary,"#330000
+","array([ 5.62096435, -1.8110647 ])"
+855,4705,0,15.10888671875,"array([1310.89672852, 1970.14428711])",Semi-chemical wood pulp,"#9c9a87
+","array([ 6.6816394 , -1.71156996])"
+856,9402,0,15.3115234375,"array([1508.06738281, 2267.46533203])","Dentists, barbers or similar chairs and parts","#299fff
+","array([ 6.44246066, -2.10245828])"
+857,6214,0,15.2130126953125,"array([2008.98846436, 1891.51245117])","Shawls, scarves, etc, of silk etc, not knit","#6e451e
+","array([ 5.92015382, -2.68482413])"
+858,5105,0,15.1156005859375,"array([2042.15533447, 1838.62091064])",Carded wool,"#6e451e
+","array([ 5.84975179, -2.7643661 ])"
+859,4302,0,15.071044921875,"array([2130.70739746, 2292.57568359])","Tanned or dressed mink furskins, whole, unassembled","#299fff
+","array([ 6.22268209, -1.75111696])"
+860,9113,0,15.02099609375,"array([1403.56079102, 2786.24682617])","Watch straps etc & parts, of/clad with precious metal","#0576a6
+","array([ 7.14834723, -2.12999857])"
+861,4202,0,20.2587890625,"array([1416.61181641, 2845.40795898])","Trunks, suit-cases/etc, outer surface leather","#0576a6
+","array([ 7.19267744, -2.12482419])"
+862,5510,0,15.045166015625,"array([2062.95373535, 1963.81732178])","Yarn >85% artificial staple fibres, single, not retai","#6e451e
+","array([ 5.93285207, -2.55066472])"
+863,4303,0,15.0693359375,"array([2056.39941406, 1873.63006592])",Articles of apparel & clothing accessories of furskin,"#6e451e
+","array([ 5.87321995, -2.70521643])"
+864,4412,0,16.844970703125,"array([2301.65563965, 2112.00366211])",Plywood 1 or 2 outer ply tropical hardwood (ply <6 mm,"#330000
+","array([ 5.85659701, -1.76988086])"
+865,4407,0,19.67626953125,"array([2268.70385742, 2155.08666992])","Lumber, coniferous (softwood) thickness < 6 mm","#330000
+","array([ 5.93025567, -1.77044282])"

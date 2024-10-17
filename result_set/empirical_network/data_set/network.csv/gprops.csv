@@ -1,0 +1,7 @@
+# prop_name, value
+name,drosophila_flybi
+description,"Binary protein-protein interactions (PPIs) for Drosophila melanogaster, containing 8723 PPIs among 2939 proteins. The iteractions were identified using a yeast two-hybrid (Y2H) analysis."
+citation,"['Tang, HW., Spirohn, K., Hu, Y. et al. Next-generation large-scale binary protein interaction network for Drosophila melanogaster. Nat Commun 14, 2162 (2023), https://doi.org/10.1038/s41467-023-37876-0']"
+url,https://doi.org/10.1038/s41467-023-37876-0
+upstream_license,"CC BY 4.0, https://creativecommons.org/licenses/by/4.0/"
+tags,"['Biological', 'Protein interactions', 'Unweighted']"

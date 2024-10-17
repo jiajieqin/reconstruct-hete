@@ -1,0 +1,6 @@
+# prop_name, value
+name,route_views (19971108)
+description,"733 daily network snapshots denoting BGP traffic among autonomous systems (ASs) on the Internet, from the Oregon Route Views Project, spanning 8 November 1997 to 2 January 2000. Data collected by NLANR/MOAT."
+citation,"['University of Oregon Route Views Project, http://www.routeviews.org/ (2001), http://www.routeviews.org/']"
+url,http://snap.stanford.edu/data/as.html
+tags,"['Technological', 'Communication', 'Unweighted', 'Temporal']"

@@ -1,0 +1,7 @@
+# prop_name, value
+name,product_space (SITC)
+description,"Two networks of economic products, where a pair of products are connected if they are exported at similar rates by the same countries. The data are a projection from a bipartite network of nations and the products they export. Edges weights represent a similarity score (called \"proximity\"). Data based on UN Comtrade worldwide trade patterns. SITC network based on the Standard International Trade Classification and HS network based on the Harmonized Commodity Description and Coding System.[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['R. Hausmann et al., \"The Atlas of Economic Complexity: Mapping paths to prosperity.\" MIT Press (2014), https://doi.org/10.1126/science.1144581', 'CA Hidalgo, R Hausmann, \"The Building Blocks of Economic Complexity\", Proc. Natl. Acad. Sci. 106(26):10570-10575 (2009), https://doi.org/10.1073/pnas.0900943106', 'R Hausmann, CA Hidalgo, S Bustos, M Coscia, S Chung, J Jimenez, A Simoes, MA Yildirim, \"The Atlas of Economic Complexity\", Puritan Press (2011). ISBN-10: 0615546625, http://atlas.media.mit.edu/book/']"
+url,http://www.michelecoscia.com/?page_id=223
+tags,"['Economic', 'Trade', 'Weighted', 'Projection', 'Metadata']"

@@ -1,0 +1,7 @@
+# prop_name, value
+name,plant_pol_kato
+description,"A bipartite network of plants and pollinators from Kyoto University Forest of Ashu, Japan, from 1984 to 1987. Edge weights represent frequency of interactions[^icon]
+[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
+citation,"['M. Kato et al., \"Insect-flower relationship in the primary beech forest of Ashu, Kyoto: an overview of the flowering phenology and seasonal pattern of insect visits.\" Contr. Biol. Lab. Kyoto Univ. 27, 309-375 (1990), http://www.researchgate.net/publication/236969168_Insect-flower_relationship_in_the_primary_beech_forest_of_Ashu_Kyoto_an_overview_of_the_flowering_phenology_and_the_seasonal_pattern_of_insect_visits']"
+url,https://iwdb.nceas.ucsb.edu/html/kato_1990.html
+tags,"['Biological', 'Food web', 'Weighted']"

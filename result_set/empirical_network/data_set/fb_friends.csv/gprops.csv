@@ -1,0 +1,6 @@
+# prop_name, value
+name,copenhagen (fb_friends)
+description,"A network of social interactions among university students within the Copenhagen Networks Study, over a period of four weeks, sampled every 5 minutes. Interactions include physical proximity (undirected), phone calls (directed, weighted), text messages (directed), and information about Facebook friendships (undirected). Nodes include some metadata, including gender."
+citation,"['P. Sapiezynski, et al., \"Interaction data from the Copenhagen Networks Study.\" Scientific Data 6, 315 (2019), https://www.nature.com/articles/s41597-019-0325-x']"
+url,https://doi.org/10.6084/m9.figshare.7267433
+tags,"['Social', 'Offline', 'Unweighted', 'Weighted', 'Timestamps', 'Multilayer', 'Metadata']"

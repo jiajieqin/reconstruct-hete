@@ -1,0 +1,6 @@
+# prop_name, value
+name,kegg_metabolic (ape)
+description,"109 metabolic networks of various species, as extracted from the Kyoto Encyclopedia of Genes and Genomes (KEGG) database in March 2006. Nodes are substances involved in enzymatic reactions present in the organism, and edges represent reactant-product pairs as extracted from the KEGG ligand database and matched against the present enzymes."
+citation,"['M. Huss & P. Holme, \"Currency and commodity metabolites: their identification and relation to the modularity of metabolic networks.\" IET Syst. Biol. 1(5), 280-285 (2007), http://arxiv.org/abs/q-bio/0603038']"
+url,http://santafe.edu/~aaronc/data/kegg2006_metabolic.zip
+tags,"['Biological', 'Metabolic', 'Unweighted']"

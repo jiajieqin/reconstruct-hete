@@ -1,0 +1,92 @@
+# prop_name, value
+name,edit_wikibooks (fy)
+description,"Two bipartite user-page networks extracted from Wikipedia, about books. A user connects to a page if that user edited that page. Edits (edges) are timestamped. Edge weights represent counts of the number of edits."
+citation,"['Wikimedia Foundation. Wikimedia downloads. http://dumps.wikimedia.org/, January 2010., http://dumps.wikimedia.org/']"
+url,http://konect.cc/networks/edit-enwikibooks
+tags,"['Informational', 'Web graph', 'Multigraph', 'Timestamps']"
+konect_meta,"long-description: This is the bipartite edit network of the Western Frisian Wikibooks. It contains users and pages from the Western Frisian Wikibooks, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+name: Wikibooks edits (fy)
+extr: edit
+description: User–article edit
+url: http://dumps.wikimedia.org/
+category: Authorship
+cite: download.wikimedia.org
+code: bfy
+tags: #regenerate
+entity-names:  user, article
+relationship-names:  edit
+timeiso:  2017-10-20
+"
+konect_readme,"Wikibooks edits (fy) network, part of the Koblenz Network Collection
+===========================================================================
+
+This directory contains the TSV and related files of the edit-fywikibooks network: This is the bipartite edit network of the Western Frisian Wikibooks. It contains users and pages from the Western Frisian Wikibooks, connected by edit events. Each edge represents an edit. The dataset includes the timestamp of each edit.
+
+
+More information about the network is provided here: 
+http://konect.cc/networks/edit-fywikibooks
+
+Files: 
+    meta.edit-fywikibooks -- Metadata about the network 
+    out.edit-fywikibooks -- The adjacency matrix of the network in whitespace-separated values format, with one edge per line
+      The meaning of the columns in out.edit-fywikibooks are: 
+        First column: ID of from node 
+        Second column: ID of to node
+        Third column (if present): weight or multiplicity of edge
+        Fourth column (if present):  timestamp of edges Unix time
+        Third column: edge weight
+        Fourth column: timestamp of the edge
+
+
+Use the following References for citation:
+
+@MISC{konect:2017:edit-fywikibooks,
+    title = {Wikibooks edits (fy) network dataset -- {KONECT}},
+    month = dec,
+    year = {2017},
+    url = {http://konect.cc/networks/edit-fywikibooks}
+}
+
+@misc{download.wikimedia.org,
+	author = {{Wikimedia Foundation}},
+	title = {Wikimedia Downloads},
+	month = {January},
+	year = {2010},
+	howpublished = {\url{http://dumps.wikimedia.org/}},
+}
+
+@misc{download.wikimedia.org,
+	author = {{Wikimedia Foundation}},
+	title = {Wikimedia Downloads},
+	month = {January},
+	year = {2010},
+	howpublished = {\url{http://dumps.wikimedia.org/}},
+}
+
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+@inproceedings{konect,
+	title = {{KONECT} -- {The} {Koblenz} {Network} {Collection}},
+	author = {Jérôme Kunegis},
+	year = {2013},
+	booktitle = {Proc. Int. Conf. on World Wide Web Companion},
+	pages = {1343--1350},
+	url = {http://dl.acm.org/citation.cfm?id=2488173},
+	url_presentation = {https://www.slideshare.net/kunegis/presentationwow},
+	url_web = {http://konect.cc/},
+	url_citations = {https://scholar.google.com/scholar?cites=7174338004474749050},
+}
+
+
+"

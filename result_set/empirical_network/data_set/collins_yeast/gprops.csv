@@ -1,0 +1,6 @@
+# prop_name, value
+name,collins_yeast
+description,"Network of protein-protein interactions in Saccharomyces cerevisiae (budding yeast), measured by co-complex associations identified by high-throughput affinity purification and mass spectrometry (AP/MS)"
+citation,"['S.R. Collins et al., \"Toward a comprehensive atlas of the physical interactome of Saccharomyces cerevisiae.\" Mol. Cell. Proteomics 6(3), 439-450 (2007), http://www.ncbi.nlm.nih.gov/pubmed/17200106']"
+url,http://interactome.dfci.harvard.edu/S_cerevisiae/index.php?page=download
+tags,"['Biological', 'Protein interactions', 'Unweighted']"
