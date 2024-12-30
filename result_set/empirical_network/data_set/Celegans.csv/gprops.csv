@@ -1,8 +1,0 @@
-# prop_name, value
-name,genetic_multiplex (Celegans)
-description,"Multiplex networks representing different types of genetic interactions, for different organisms. Layers represent (i) physical, (ii) association, (iii) co-localization, (iv) direct, and (v) suppressive, (vi) additive or synthetic genetic interaction. Edge direction (i,j) indicates gene i interacting with gene j.[^icon]
-[^icon]: Description obtained from the [ICON](https://icon.colorado.edu) project."
-citation,"['M. De Domenico, M. A. Porter, & A. Arenas. \"MuxViz: a tool for multilayer analysis and visualization of networks\". Journal of Complex Networks, cnu038. (2014)., https://doi.org/10.1093/comnet/cnu038']"
-url,https://manliodedomenico.com/data.php
-tags,"['Biological', 'Gene regulation', 'Protein interactions', 'Unweighted', 'Multilayer']"
-layer_key,"{1: 'direct_interaction', 2: 'physical_association', 3: 'additive_genetic_interaction_defined_by_inequality', 4: 'suppressive_genetic_interaction_defined_by_inequality', 5: 'association', 6: 'colocalization'}"
